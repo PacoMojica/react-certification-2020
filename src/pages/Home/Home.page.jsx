@@ -1,39 +1,36 @@
-import React, { useRef } from 'react';
-import { Link, useHistory } from 'react-router-dom';
+import React, { useEffect } from 'react';
 
-import { useAuth } from '../../providers/Auth';
-import './Home.styles.css';
+import VideoCard from '../../components/VideoCard';
+import Main from '../../components/Main';
+import VideoLoading from '../../components/VideoLoading';
 
-function HomePage() {
-  const history = useHistory();
-  const sectionRef = useRef(null);
-  const { authenticated, logout } = useAuth();
+import { useVideoList } from '../../utils/hooks/useVideoList';
 
-  function deAuthenticate(event) {
-    event.preventDefault();
-    logout();
-    history.push('/');
-  }
+import useStyles from './Home.styles';
+
+function Home() {
+  const classes = useStyles();
+  const { videoList, loading, error } = useVideoList();
+
+  useEffect(() => {
+    document.title = 'Home | WizeTube';
+
+    return () => document.title = 'WizeTube';
+  }, []);
 
   return (
-    <section className="homepage" ref={sectionRef}>
-      <h1>Hello stranger!</h1>
-      {authenticated ? (
-        <>
-          <h2>Good to have you back</h2>
-          <span>
-            <Link to="/" onClick={deAuthenticate}>
-              ← logout
-            </Link>
-            <span className="separator" />
-            <Link to="/secret">show me something cool →</Link>
-          </span>
-        </>
-      ) : (
-        <Link to="/login">let me in →</Link>
+    <Main withSidebar={true}>
+      {loading && <VideoLoading />}
+      {error && <p>{error.toString()}</p>}
+      {!loading && !error && (
+        <section className={classes.content}>
+          {videoList && videoList.length && videoList.map(video => (
+            <VideoCard key={video.id} video={video} />
+          ))}
+        </section>
       )}
-    </section>
+    </Main>
   );
 }
 
-export default HomePage;
+export default Home;

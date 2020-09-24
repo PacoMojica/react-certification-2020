@@ -1,0 +1,58 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "0gf47Egm9L-yiqD_L6qmhRj1-GI",
+  "pageInfo": {
+    "resultsPerPage": 1
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "eXQbcIj9Hrs8pNl0yOtOxxlYAts",
+      "id": "UCjmJDM5pRKbUlVIzDYYWb6g",
+      "snippet": {
+        "title": "Warner Bros. Pictures",
+        "description": "Welcome to the official channel for Warner Bros. Pictures. Subscribe now for all our latest movie trailers, clips and featurettes!",
+        "customUrl": "wbpictures",
+        "publishedAt": "2006-10-17T22:30:51Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzWoMA3RgR8Qc29M3lA3nMPMXT95BS-lHZEYJc7jw=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzWoMA3RgR8Qc29M3lA3nMPMXT95BS-lHZEYJc7jw=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzWoMA3RgR8Qc29M3lA3nMPMXT95BS-lHZEYJc7jw=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Warner Bros. Pictures",
+          "description": "Welcome to the official channel for Warner Bros. Pictures. Subscribe now for all our latest movie trailers, clips and featurettes!"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "favorites": "",
+          "uploads": "UUjmJDM5pRKbUlVIzDYYWb6g",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      },
+      "statistics": {
+        "viewCount": "5023826484",
+        "commentCount": "0",
+        "subscriberCount": "8770000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "2429"
+      }
+    }
+  ]
+}

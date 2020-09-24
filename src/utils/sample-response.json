@@ -1,0 +1,3396 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "JpHGsKur85UujS67baS2PMt6Or8",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "YKkVn_l95E5nMhDGt4GS-4wZ86c",
+      "id": "53vz5pQH0Rg",
+      "snippet": {
+        "publishedAt": "2020-09-10T17:00:10Z",
+        "channelId": "UCcgVECVN4OKV6DH1jLkqmcA",
+        "title": "Jake Paul - 23 (Official Music Video) Starring Logan Paul",
+        "description": "Save \"23\" to your music library 👉🏼 https://lnk.to/JP23\nSave \"23\" to your music library 👉🏼 https://lnk.to/JP23\nSave \"23\" to your music library 👉🏼 https://lnk.to/JP23\n\n🔴SUBSCRIBE ➤ http://bit.ly/SUB2JAKEPAUL \n\nINSTAGRAM ➤  https://www.instagram.com/JakePaul \nTWITTER ➤  http://twitter.com/JakePaul\n\nCredits: \nDirected by: Jake Paul\nDP/Edit: Logan Meis\nSteadi: Aser Santos Jr.\n1st AC: Chris Pinto\n2nd AC: Donald Turner\nG&E: Special Purpose Lighting & Grip\nProducers: Nolan Riddle & Marcos Guerrero\nDP: Logan Meis\n\nLyrics:\nHad to do maybach \nI can’t do a regular Benz \nI like the seats that recline \nKnow I’m dog \nYes I’m fuckin her and her friend \nI like em two at a time \nAnd She wanna slide she pull out her insta and shit\nShe go if she fuck up the vibe \nHow am I 23 sittin on 23 I feel like Jordan \nI’m back in my prime (2x)\n\nThis years in the makin shit why would I lie \nDreamed of the whip now I don’t even drive \nI got a chauffeur \nShe told me I’m drivin her crazy \nShe hate what I’m doin online \n10 in a week and I’m just not suprised\nI had to take that one home to the guys \nI got the feds watchin \nHaters watchin \nNews watchin that’s a whole lotta eyes \nI went and Flooded my wrist \nFor the fuck of this shit \n\nWhile these rappers just run out of time \nI’m here forever \nThis lives televised \nAin’t no way they could take none from any of mine \nThat boy a vette \nAnd he still on the rise \nRolls or the Bentley shit I can’t decide \nI got the paparazzi at the front of my door \nI can’t leave shit I need a disguise\n\nHad to do maybach \nI can’t do a regular Benz \nI like the seats that recline \nKnow I’m dog \nYes I’m fuckin her and her friend \nI like em two at a time \nAnd She wanna slide she pull out her insta and shit\nShe go if she fuck up the vibe \nHow am I 23 sittin on 23 I feel like Jordan \nI’m back in my prime (2x)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/53vz5pQH0Rg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/53vz5pQH0Rg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/53vz5pQH0Rg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/53vz5pQH0Rg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/53vz5pQH0Rg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jake Paul",
+        "tags": [
+          "jake paul",
+          "mini jake paul",
+          "jake paul pranks",
+          "logan paul",
+          "jake paul scary vids",
+          "team 10",
+          "lucas and marcus",
+          "jake paul song",
+          "Jake Paul youtube",
+          "Hype House",
+          "team 10 vs hype house",
+          "trending",
+          "trending tiktok songs",
+          "Tik Tok",
+          "tik tok mashup",
+          "tik tok video",
+          "Jake Paul - Fresh Outta London (Official Music Video)",
+          "Jake Paul - 23 (Official Music Video) starring Logan Paul",
+          "Jake Paul - Every Day Bro",
+          "Logan Paul Vlogs",
+          "Jake Paul Vlogs",
+          "Impaulsive Podcast",
+          "NLE Choppa",
+          "Lil Tjay"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Jake Paul - 23 (Official Music Video) Starring Logan Paul",
+          "description": "Save \"23\" to your music library 👉🏼 https://lnk.to/JP23\nSave \"23\" to your music library 👉🏼 https://lnk.to/JP23\nSave \"23\" to your music library 👉🏼 https://lnk.to/JP23\n\n🔴SUBSCRIBE ➤ http://bit.ly/SUB2JAKEPAUL \n\nINSTAGRAM ➤  https://www.instagram.com/JakePaul \nTWITTER ➤  http://twitter.com/JakePaul\n\nCredits: \nDirected by: Jake Paul\nDP/Edit: Logan Meis\nSteadi: Aser Santos Jr.\n1st AC: Chris Pinto\n2nd AC: Donald Turner\nG&E: Special Purpose Lighting & Grip\nProducers: Nolan Riddle & Marcos Guerrero\nDP: Logan Meis\n\nLyrics:\nHad to do maybach \nI can’t do a regular Benz \nI like the seats that recline \nKnow I’m dog \nYes I’m fuckin her and her friend \nI like em two at a time \nAnd She wanna slide she pull out her insta and shit\nShe go if she fuck up the vibe \nHow am I 23 sittin on 23 I feel like Jordan \nI’m back in my prime (2x)\n\nThis years in the makin shit why would I lie \nDreamed of the whip now I don’t even drive \nI got a chauffeur \nShe told me I’m drivin her crazy \nShe hate what I’m doin online \n10 in a week and I’m just not suprised\nI had to take that one home to the guys \nI got the feds watchin \nHaters watchin \nNews watchin that’s a whole lotta eyes \nI went and Flooded my wrist \nFor the fuck of this shit \n\nWhile these rappers just run out of time \nI’m here forever \nThis lives televised \nAin’t no way they could take none from any of mine \nThat boy a vette \nAnd he still on the rise \nRolls or the Bentley shit I can’t decide \nI got the paparazzi at the front of my door \nI can’t leave shit I need a disguise\n\nHad to do maybach \nI can’t do a regular Benz \nI like the seats that recline \nKnow I’m dog \nYes I’m fuckin her and her friend \nI like em two at a time \nAnd She wanna slide she pull out her insta and shit\nShe go if she fuck up the vibe \nHow am I 23 sittin on 23 I feel like Jordan \nI’m back in my prime (2x)"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1758536",
+        "likeCount": "136471",
+        "dislikeCount": "38364",
+        "favoriteCount": "0",
+        "commentCount": "18319"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/53vz5pQH0Rg\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/04rlf",
+          "/m/0glt670",
+          "/m/04rlf",
+          "/m/0glt670"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "liveStreamingDetails": {
+        "actualStartTime": "2020-09-10T17:00:10Z",
+        "actualEndTime": "2020-09-10T17:04:14Z",
+        "scheduledStartTime": "2020-09-10T17:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "b1S3nJrNty49jSsyg6BSwTUQMWM",
+      "id": "n9xhJrPXop4",
+      "snippet": {
+        "publishedAt": "2020-09-09T16:18:02Z",
+        "channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
+        "title": "Dune Official Trailer",
+        "description": "Beyond fear, destiny awaits. Watch the trailer for the highly anticipated #DuneMovie now. \n\n\n-----------------\nhttps://www.facebook.com/dune\n https://twitter.com/dunemovie\nhttps://www.instagram.com/dunemovie\n-----------------\n\nOscar  nominee  Denis  Villeneuve  (“Arrival,”  “Blade  Runner  2049”)  directs  Warner  Bros.  Pictures  and  Legendary Pictures’ “Dune,” the big-screen adaptation of Frank Herbert’s seminal bestseller of the same name. A mythic and emotionally charged hero’s journey, “Dune” tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, who must travel to the most dangerous planet  in  the  universe  to  ensure  the  future  of  his  family  and  his  people.  As  malevolent  forces  explode  into conflict over the planet’s exclusive supply of the most precious resource in existence—a commodity capable of unlocking humanity’s greatest potential—only those who can conquer their fear will survive.The film stars Oscar nominee Timothée Chalamet (“Call Me by Your Name,”  “Little Women”), Rebecca Ferguson  (“Stephen  King’s  Doctor  Sleep,”   “Mission:  Impossible  –  Fallout”),  Oscar  Isaac  (the “Star  Wars” franchise) Oscar nominee Josh Brolin (“Milk,” “Avengers: Infinity War”), Stellan Skarsgård (HBO’s “Chernobyl,” “Avengers: Age of Ultron”), Dave Bautista (the “Guardians of the Galaxy” films, “Avengers: Endgame”), Stephen McKinley Henderson (“Fences,” “Lady Bird”), Zendaya (“Spider-Man: Homecoming,” HBO’s “Euphoria”), Chang Chen (“Mr.  Long,” “Crouching  Tiger,  Hidden  Dragon”),    David  Dastmalchian  (“Blade  Runner  2049,”  “The  Dark  Knight”), Sharon  Duncan-Brewster  (“Rogue  One:  A  Star  Wars  Story,”  Netflix’s “Sex  Education”),   with  Oscar  nominee Charlotte Rampling (“45 Years,” “Assassin’s Creed”), with Jason Momoa (“Aquaman,” HBO’s “Game of Thrones”), and Oscar winner Javier Bardem (“No Country for Old Men,” “Skyfall”).   Villeneuve directed “Dune” from a screenplay he co-wrote with Jon Spaihts and Eric Roth based on the novel of the same name written by Frank Herbert.  Villeneuve also produced the film with Mary Parent, Cale Boyter  and  Joe  Caracciolo,  Jr.   The  executive  producers  are  Tanya  Lapointe,  Joshua  Grode,  Herbert  W.  Gains, Jon Spaihts, Thomas Tull, Brian Herbert, Byron Merritt and Kim Herbert. Behind  the  scenes,  Villeneuve  reteamed  with  two-time  Oscar-nominated  production  designer  Patrice  Vermette  (“Arrival,”  “Sicario,”  “The  Young  Victoria”),  two-time  Oscar-nominated  editor  Joe  Walker  (“Blade  Runner  2049,”  “Arrival,”  “12  Years  a  Slave”),  two-time  Oscar-winning  visual  effects  supervisor  Paul  Lambert  (“First Man,” “Blade Runner 2049”), and Oscar-winning special effects supervisor Gerd Nefzer (“Blade Runner 2049”).    He  also  collaborated  for  the  first  time  with  Oscar-nominated  director  of  photography  Greig  Fraser  (“Lion,”  “Zero  Dark  Thirty,”  “Rogue  One:  A  Star  Wars  Story”);  three-time  Oscar-nominated  costume  designer  \nJacqueline West (“The Revenant,” “The Curious Case of Benjamin Button,” “Quills”) and co-costume designer Bob Morgan; and stunt coordinator Tom Struthers (“The Dark Knight” trilogy, “Inception”).  Oscar-winning and multiple  Oscar-nominated  composer  Hans  Zimmer  (“Blade  Runner  2049,”  “Inception,”  “Gladiator,”  “The  Lion King”) is creating the score.  Warner  Bros.  Pictures  and  Legendary  Pictures  Present  “Dune.”    The  film  is  slated  to  be  released  in  theaters on December 18, 2020.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n9xhJrPXop4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n9xhJrPXop4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n9xhJrPXop4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n9xhJrPXop4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n9xhJrPXop4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Warner Bros. Pictures",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Dune Official Trailer",
+          "description": "Beyond fear, destiny awaits. Watch the trailer for the highly anticipated #DuneMovie now. \n\n\n-----------------\nhttps://www.facebook.com/dune\n https://twitter.com/dunemovie\nhttps://www.instagram.com/dunemovie\n-----------------\n\nOscar  nominee  Denis  Villeneuve  (“Arrival,”  “Blade  Runner  2049”)  directs  Warner  Bros.  Pictures  and  Legendary Pictures’ “Dune,” the big-screen adaptation of Frank Herbert’s seminal bestseller of the same name. A mythic and emotionally charged hero’s journey, “Dune” tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, who must travel to the most dangerous planet  in  the  universe  to  ensure  the  future  of  his  family  and  his  people.  As  malevolent  forces  explode  into conflict over the planet’s exclusive supply of the most precious resource in existence—a commodity capable of unlocking humanity’s greatest potential—only those who can conquer their fear will survive.The film stars Oscar nominee Timothée Chalamet (“Call Me by Your Name,”  “Little Women”), Rebecca Ferguson  (“Stephen  King’s  Doctor  Sleep,”   “Mission:  Impossible  –  Fallout”),  Oscar  Isaac  (the “Star  Wars” franchise) Oscar nominee Josh Brolin (“Milk,” “Avengers: Infinity War”), Stellan Skarsgård (HBO’s “Chernobyl,” “Avengers: Age of Ultron”), Dave Bautista (the “Guardians of the Galaxy” films, “Avengers: Endgame”), Stephen McKinley Henderson (“Fences,” “Lady Bird”), Zendaya (“Spider-Man: Homecoming,” HBO’s “Euphoria”), Chang Chen (“Mr.  Long,” “Crouching  Tiger,  Hidden  Dragon”),    David  Dastmalchian  (“Blade  Runner  2049,”  “The  Dark  Knight”), Sharon  Duncan-Brewster  (“Rogue  One:  A  Star  Wars  Story,”  Netflix’s “Sex  Education”),   with  Oscar  nominee Charlotte Rampling (“45 Years,” “Assassin’s Creed”), with Jason Momoa (“Aquaman,” HBO’s “Game of Thrones”), and Oscar winner Javier Bardem (“No Country for Old Men,” “Skyfall”).   Villeneuve directed “Dune” from a screenplay he co-wrote with Jon Spaihts and Eric Roth based on the novel of the same name written by Frank Herbert.  Villeneuve also produced the film with Mary Parent, Cale Boyter  and  Joe  Caracciolo,  Jr.   The  executive  producers  are  Tanya  Lapointe,  Joshua  Grode,  Herbert  W.  Gains, Jon Spaihts, Thomas Tull, Brian Herbert, Byron Merritt and Kim Herbert. Behind  the  scenes,  Villeneuve  reteamed  with  two-time  Oscar-nominated  production  designer  Patrice  Vermette  (“Arrival,”  “Sicario,”  “The  Young  Victoria”),  two-time  Oscar-nominated  editor  Joe  Walker  (“Blade  Runner  2049,”  “Arrival,”  “12  Years  a  Slave”),  two-time  Oscar-winning  visual  effects  supervisor  Paul  Lambert  (“First Man,” “Blade Runner 2049”), and Oscar-winning special effects supervisor Gerd Nefzer (“Blade Runner 2049”).    He  also  collaborated  for  the  first  time  with  Oscar-nominated  director  of  photography  Greig  Fraser  (“Lion,”  “Zero  Dark  Thirty,”  “Rogue  One:  A  Star  Wars  Story”);  three-time  Oscar-nominated  costume  designer  \nJacqueline West (“The Revenant,” “The Curious Case of Benjamin Button,” “Quills”) and co-costume designer Bob Morgan; and stunt coordinator Tom Struthers (“The Dark Knight” trilogy, “Inception”).  Oscar-winning and multiple  Oscar-nominated  composer  Hans  Zimmer  (“Blade  Runner  2049,”  “Inception,”  “Gladiator,”  “The  Lion King”) is creating the score.  Warner  Bros.  Pictures  and  Legendary  Pictures  Present  “Dune.”    The  film  is  slated  to  be  released  in  theaters on December 18, 2020."
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT3M5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "12031343",
+        "likeCount": "377441",
+        "dislikeCount": "10628",
+        "favoriteCount": "0",
+        "commentCount": "41849"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/n9xhJrPXop4\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/02jjt",
+          "/m/02vxn",
+          "/m/02jjt",
+          "/m/02vxn"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Film",
+          "https://en.wikipedia.org/wiki/Entertainment"
+        ]
+      },
+      "recordingDetails": {}
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0eHxaGR-y5vZQEzbxQz1phTxzII",
+      "id": "pb28GKB3E08",
+      "snippet": {
+        "publishedAt": "2020-09-09T20:03:00Z",
+        "channelId": "UCzxG2q7N8jgMXaxjE6iVTDA",
+        "title": "6ix9ine Tell All Part 1 - No Holds Barred",
+        "description": "#PRESSPLAY: #TSR Founder Angelica Nwandu sits down with Tekashi #6ix9ine. In this no holds barred interview with Daniel Hernandez we address ALL of his controversies: his reputation as a snitch, his security detail, his $13 million record deal, his Fashion Nova lawsuit, his relationship with God, his relationships with women, his experience in jail and more. So did 6ix9ine troll The Shade Room? Watch the interview to find out.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pb28GKB3E08/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pb28GKB3E08/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pb28GKB3E08/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pb28GKB3E08/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pb28GKB3E08/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THE SHADE ROOM",
+        "tags": [
+          "Tekashi 6ix9ine",
+          "Tekashi",
+          "6ix9ine",
+          "Nipsey",
+          "Nipsey Hustle",
+          "The Shade Room",
+          "Angelica Nwandu",
+          "Nicky Minaj"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "6ix9ine Tell All Part 1 - No Holds Barred",
+          "description": "#PRESSPLAY: #TSR Founder Angelica Nwandu sits down with Tekashi #6ix9ine. In this no holds barred interview with Daniel Hernandez we address ALL of his controversies: his reputation as a snitch, his security detail, his $13 million record deal, his Fashion Nova lawsuit, his relationship with God, his relationships with women, his experience in jail and more. So did 6ix9ine troll The Shade Room? Watch the interview to find out."
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT46M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "922390",
+        "likeCount": "28004",
+        "dislikeCount": "4428",
+        "favoriteCount": "0",
+        "commentCount": "10830"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/pb28GKB3E08\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/02jjt",
+          "/m/0f2f9",
+          "/m/02jjt",
+          "/m/0f2f9",
+          "/m/0f2f9"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Television_program"
+        ]
+      },
+      "recordingDetails": {}
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ADuJT8Ac0e0yovXW5SNTPiZH8FM",
+      "id": "TwT63p9D5vQ",
+      "snippet": {
+        "publishedAt": "2020-09-09T23:07:57Z",
+        "channelId": "UCzxG2q7N8jgMXaxjE6iVTDA",
+        "title": "6ix9ine Tell All Part 2: WHY I SNITCHED",
+        "description": "#PRESSPLAY: #TSR Founder Angelica Nwandu sits down with Tekashi #6ix9ine. In this no holds barred interview with Daniel Hernandez we address why he snitched, how his gang kidnapped him, domestic violence with his baby mother, and more- all in detail NEVER heard before. So did 6ix9ine troll The Shade Room? Watch the interview to find out",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TwT63p9D5vQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TwT63p9D5vQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TwT63p9D5vQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TwT63p9D5vQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TwT63p9D5vQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THE SHADE ROOM",
+        "tags": [
+          "Tekashi 6ix9ine",
+          "Tekashi",
+          "6ix9ine",
+          "Nipsey",
+          "Nipsey Hustle",
+          "The Shade Room",
+          "Angelica Nwandu",
+          "Nicky Minaj"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "6ix9ine Tell All Part 2: WHY I SNITCHED",
+          "description": "#PRESSPLAY: #TSR Founder Angelica Nwandu sits down with Tekashi #6ix9ine. In this no holds barred interview with Daniel Hernandez we address why he snitched, how his gang kidnapped him, domestic violence with his baby mother, and more- all in detail NEVER heard before. So did 6ix9ine troll The Shade Room? Watch the interview to find out"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H3M29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "859988",
+        "likeCount": "29337",
+        "dislikeCount": "1697",
+        "favoriteCount": "0",
+        "commentCount": "8395"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/TwT63p9D5vQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      },
+      "recordingDetails": {}
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ohaN4VPeEu6bbKKjKVVsHEcS4uA",
+      "id": "rXRQyd6_5j4",
+      "snippet": {
+        "publishedAt": "2020-09-09T17:05:28Z",
+        "channelId": "UC9YydG57epLqxA9cTzZXSeQ",
+        "title": "Call of Duty®: Black Ops Cold War - Multiplayer Reveal Trailer",
+        "description": "Call of Duty®: Black Ops Cold War Multiplayer features signature Black Ops combat and fast-paced battles by land, sea, and air.  Engage in deniable operations with all new and fan-favorite modes and maps from locations all over the globe.\n\nBlack Ops Cold War features a fully-connected Multiplayer experience with cross-play, cross-gen, and cross-progression support for the entire community.\n\nThis is the next generation of Black Ops Multiplayer.\n\nPre-order Call of Duty®: Black Ops Cold War now: http://bit.ly/preorderCW",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rXRQyd6_5j4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rXRQyd6_5j4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rXRQyd6_5j4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rXRQyd6_5j4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rXRQyd6_5j4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Call of Duty",
+        "tags": [
+          "call of duty",
+          "cod",
+          "activision",
+          "multiplayer",
+          "cold war",
+          "black ops",
+          "video game",
+          "video games",
+          "gamer",
+          "gamers",
+          "gaming",
+          "reveal",
+          "event"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Call of Duty®: Black Ops Cold War - Multiplayer Reveal Trailer",
+          "description": "Call of Duty®: Black Ops Cold War Multiplayer features signature Black Ops combat and fast-paced battles by land, sea, and air.  Engage in deniable operations with all new and fan-favorite modes and maps from locations all over the globe.\n\nBlack Ops Cold War features a fully-connected Multiplayer experience with cross-play, cross-gen, and cross-progression support for the entire community.\n\nThis is the next generation of Black Ops Multiplayer.\n\nPre-order Call of Duty®: Black Ops Cold War now: http://bit.ly/preorderCW"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2900502",
+        "likeCount": "154667",
+        "dislikeCount": "7927",
+        "favoriteCount": "0",
+        "commentCount": "14650"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/rXRQyd6_5j4\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/0bzvm2",
+          "/m/025zzc",
+          "/m/0bzvm2",
+          "/m/025zzc"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Video_game_culture",
+          "https://en.wikipedia.org/wiki/Action_game"
+        ]
+      },
+      "recordingDetails": {}
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3GNbk_xKDrpkcMSjfwaupuQQdLY",
+      "id": "kNW-SO4nHco",
+      "snippet": {
+        "publishedAt": "2020-09-10T16:00:14Z",
+        "channelId": "UCbg_UMjlHJg_19SZckaKajg",
+        "title": "Fivio Foreign, Calboy, 24kGoldn and Mulatto's 2020 XXL Freshman Cypher",
+        "description": "Subscribe to XXL → http://bit.ly/subscribe-xxl \r\n\nWatch Fivio Foreign, Mulatto, Calboy and 24kGoldn's 2020 XXL Freshman cypher.\n\nBeat produced by Jetsonmade.\n\nVisit the 2020 XXL Freshman Class website → https://www.xxlmag.com/freshman/\n\nPurchase the 2020 XXL Freshman Class magazine issue online: https://shop.xxlmag.com/p/xxl-freshman-class-2020-magazine\n\nCredits: \nDirected by @travissatten \nProduced by @ritemediagroup \n\n#Cyphers #Cypher #XXLFreshman #XXLFreshman #HipHop #2020XXLFreshman #HipHopCypher #FivioForeign #Calboy #24kGoldn #Mulatto #HipHop\r\n\nGo here → http://www.xxlmag.com/\r\nXXL on Facebook → https://www.facebook.com/xxlmag\r\nXXL on Twitter → https://twitter.com/XXL\r\nXXL on Instagram → https://instagram.com/xxl/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kNW-SO4nHco/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kNW-SO4nHco/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kNW-SO4nHco/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kNW-SO4nHco/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kNW-SO4nHco/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "XXL",
+        "tags": [
+          "cypher",
+          "cyphers",
+          "hip-hop",
+          "rap",
+          "rapper",
+          "xxl freshman",
+          "xxl freshmen",
+          "2020 xxl freshman",
+          "2020 xxl freshmen",
+          "hip-hop cypher",
+          "hip-hop cyphers",
+          "2020 xxl freshman cypher",
+          "xxl freshman cypher",
+          "mulatto",
+          "calboy",
+          "fivio foreign",
+          "24kgoldn",
+          "mulatto fivio foreign 24kgoldn calboy cypher",
+          "calboy cypher",
+          "mulatto cypher",
+          "fivio foreign cypher",
+          "24kgoldn cypher"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Fivio Foreign, Calboy, 24kGoldn and Mulatto's 2020 XXL Freshman Cypher",
+          "description": "Subscribe to XXL → http://bit.ly/subscribe-xxl \r\n\nWatch Fivio Foreign, Mulatto, Calboy and 24kGoldn's 2020 XXL Freshman cypher.\n\nBeat produced by Jetsonmade.\n\nVisit the 2020 XXL Freshman Class website → https://www.xxlmag.com/freshman/\n\nPurchase the 2020 XXL Freshman Class magazine issue online: https://shop.xxlmag.com/p/xxl-freshman-class-2020-magazine\n\nCredits: \nDirected by @travissatten \nProduced by @ritemediagroup \n\n#Cyphers #Cypher #XXLFreshman #XXLFreshman #HipHop #2020XXLFreshman #HipHopCypher #FivioForeign #Calboy #24kGoldn #Mulatto #HipHop\r\n\nGo here → http://www.xxlmag.com/\r\nXXL on Facebook → https://www.facebook.com/xxlmag\r\nXXL on Twitter → https://twitter.com/XXL\r\nXXL on Instagram → https://instagram.com/xxl/"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT4M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1180946",
+        "likeCount": "108197",
+        "dislikeCount": "1446",
+        "favoriteCount": "0",
+        "commentCount": "20007"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/kNW-SO4nHco\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/04rlf",
+          "/m/0glt670",
+          "/m/04rlf",
+          "/m/0glt670"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {}
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lz4ovHD1v3LuRlmFP-ME63_39jo",
+      "id": "FOm8LqH5lz8",
+      "snippet": {
+        "publishedAt": "2020-09-09T22:36:46Z",
+        "channelId": "UCxMAbVFmxKUVGAll0WVGpFw",
+        "title": "Cardi B x Megan Thee Stallion - Inside the WAP (BTS) [Part 1]",
+        "description": "Cardi B x Megan Thee Stallion - Inside the WAP [Part 1]\r\nStream/Download: https://CardiB.lnk.to/WAP\r\nSubscribe for more official content from Cardi B: https://CardiB.lnk.to/Subscribe\r\n\r\nFollow Cardi B\r\nhttp://cardibofficial.com\r\nhttp://Twitter.com/IAmCardiB\r\nhttp://Facebook.com/IAmCardiB\r\nhttp://Instagram.com/f/iamcardib\r\nhttp://Soundcloud.com/IAmCardiB\r\n\r\nExclusive Bardi Gang merchandise available here: http://smarturl.it/BardiGangMerchYT\r\n\r\nThe official YouTube channel of Atlantic Records artist Cardi B. Subscribe for the latest music videos, performances, and more.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FOm8LqH5lz8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FOm8LqH5lz8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FOm8LqH5lz8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FOm8LqH5lz8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FOm8LqH5lz8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cardi B",
+        "tags": [
+          "Cardi B",
+          "Cardi",
+          "Atlantic Records",
+          "rap",
+          "hip hop",
+          "trap",
+          "latin",
+          "Bodak Yellow",
+          "bloody shoes",
+          "red bottoms",
+          "i like it",
+          "invasion of privacy",
+          "offset",
+          "bruno mars",
+          "finesse"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Cardi B x Megan Thee Stallion - Inside the WAP (BTS) [Part 1]",
+          "description": "Cardi B x Megan Thee Stallion - Inside the WAP [Part 1]\r\nStream/Download: https://CardiB.lnk.to/WAP\r\nSubscribe for more official content from Cardi B: https://CardiB.lnk.to/Subscribe\r\n\r\nFollow Cardi B\r\nhttp://cardibofficial.com\r\nhttp://Twitter.com/IAmCardiB\r\nhttp://Facebook.com/IAmCardiB\r\nhttp://Instagram.com/f/iamcardib\r\nhttp://Soundcloud.com/IAmCardiB\r\n\r\nExclusive Bardi Gang merchandise available here: http://smarturl.it/BardiGangMerchYT\r\n\r\nThe official YouTube channel of Atlantic Records artist Cardi B. Subscribe for the latest music videos, performances, and more."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT9M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "5159684",
+        "likeCount": "341454",
+        "dislikeCount": "7199",
+        "favoriteCount": "0",
+        "commentCount": "16002"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/FOm8LqH5lz8\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/04rlf",
+          "/m/0glt670",
+          "/m/05qjc"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Performing_arts",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {}
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "C6-XFZ2oXu9otcF8dkECYDuMO50",
+      "id": "_7SAYpHCTpg",
+      "snippet": {
+        "publishedAt": "2020-09-10T15:04:25Z",
+        "channelId": "UCsTcErHg8oDvUnTzoqsYeNw",
+        "title": "Xbox Series X and Xbox Series S Model Unboxing",
+        "description": "Microsoft sent over some models of the upcoming Xbox Series X and Xbox Series S for unboxing. These are not able to be turned on but are exact physical matches for the eventual retail units.\n\nFOLLOW ME IN THESE PLACES FOR UPDATES\r\nTwitter - http://twitter.com/unboxtherapy\r\nFacebook - http://facebook.com/lewis.hilsenteger\r\nInstagram - http://instagram.com/unboxtherapy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_7SAYpHCTpg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_7SAYpHCTpg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_7SAYpHCTpg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_7SAYpHCTpg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_7SAYpHCTpg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Unbox Therapy",
+        "tags": [
+          "unbox therapy",
+          "unboxtherapy",
+          "tech",
+          "technology",
+          "gadgets",
+          "gadget",
+          "unboxing",
+          "review",
+          "unbox",
+          "therapy",
+          "new",
+          "youtube"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Xbox Series X and Xbox Series S Model Unboxing",
+          "description": "Microsoft sent over some models of the upcoming Xbox Series X and Xbox Series S for unboxing. These are not able to be turned on but are exact physical matches for the eventual retail units.\n\nFOLLOW ME IN THESE PLACES FOR UPDATES\r\nTwitter - http://twitter.com/unboxtherapy\r\nFacebook - http://facebook.com/lewis.hilsenteger\r\nInstagram - http://instagram.com/unboxtherapy"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT10M33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1278150",
+        "likeCount": "62809",
+        "dislikeCount": "2510",
+        "favoriteCount": "0",
+        "commentCount": "6575"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/_7SAYpHCTpg\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Xbox Series X and Xbox Series S Model Unboxing",
+          "description": "Microsoft sent over some models of the upcoming Xbox Series X and Xbox Series S for unboxing. These are not able to be turned on but are exact physical matches for the eventual retail units.\n\nFOLLOW ME IN THESE PLACES FOR UPDATES\r\nTwitter - http://twitter.com/unboxtherapy\r\nFacebook - http://facebook.com/lewis.hilsenteger\r\nInstagram - http://instagram.com/unboxtherapy"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "nbZ6U2c_9wHIgzV0oUXqNHpnA7c",
+      "id": "CQta9Hq28rI",
+      "snippet": {
+        "publishedAt": "2020-09-09T08:51:13Z",
+        "channelId": "UCA2tt9GSU2sl8rAqjlLR3mQ",
+        "title": "Minecraft, But I'm Not Colorblind Anymore...",
+        "description": "Minecraft, But I'm Not Colorblind Anymore...\nI try out colorblind glasses that allow me to see normal colors for the first time in my entire life! This was insane.\n\nFollow my socials ↓↓↓\nTwitter/Instagram: @GeorgeNotFound\n\nMerch: https://georgenotfound.shop\n\nDream: @Dream \n\nWe check out different environments, blocks and colors in Minecraft to see how much they change when I wear the colorblind glasses. I also took a colorblind test before and after to see if the colorblind glasses actually made a difference! This was a crazy experience.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CQta9Hq28rI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CQta9Hq28rI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CQta9Hq28rI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CQta9Hq28rI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CQta9Hq28rI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "GeorgeNotFound",
+        "tags": [
+          "minecraft",
+          "challenge",
+          "Minecraft but",
+          "Minecraft But I'm Not Colorblind Anymore",
+          "Minecraft Speedrunner VS Hunter",
+          "speed runner",
+          "Minecraft speed runner",
+          "minecraft hunter",
+          "minecraft mutant",
+          "Minecraft Speedrunner VS Assassin",
+          "Beating Minecraft but my friend tries to stop me",
+          "Dream Minecraft",
+          "George Minecraft youtube",
+          "minecraft challenge",
+          "minecraft server",
+          "minecraft survival",
+          "minecraft 1.14 survival",
+          "minecraft 1.15 survival",
+          "georgenotfound colorblind",
+          "colorblind glasses"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Minecraft, But I'm Not Colorblind Anymore...",
+          "description": "Minecraft, But I'm Not Colorblind Anymore...\nI try out colorblind glasses that allow me to see normal colors for the first time in my entire life! This was insane.\n\nFollow my socials ↓↓↓\nTwitter/Instagram: @GeorgeNotFound\n\nMerch: https://georgenotfound.shop\n\nDream: @Dream \n\nWe check out different environments, blocks and colors in Minecraft to see how much they change when I wear the colorblind glasses. I also took a colorblind test before and after to see if the colorblind glasses actually made a difference! This was a crazy experience."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT22M42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "8436403",
+        "likeCount": "835976",
+        "dislikeCount": "7818",
+        "favoriteCount": "0",
+        "commentCount": "81425"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/CQta9Hq28rI\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/0bzvm2",
+          "/m/025zzc",
+          "/m/0403l3g",
+          "/m/0bzvm2"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Video_game_culture",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Action_game"
+        ]
+      },
+      "recordingDetails": {}
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BSeA3KoWnI1eJL0HQ6DjsdIbC9U",
+      "id": "D-0R1i6l1Rs",
+      "snippet": {
+        "publishedAt": "2020-09-10T15:06:42Z",
+        "channelId": "UCXGgrKt94gR6lmN4aN3mYTg",
+        "title": "Xbox Series X Unboxing",
+        "description": "Unboxing the brand new Xbox Series X!\nCheck out our hands on of the Xbox Series S: https://youtu.be/Gcop0L-_CX0\nXbox Series S vs Xbox Series X: https://youtu.be/P8lkMtuhu5Y\n\nMy new podcast The Test Drivers! https://www.relay.fm/testdrivers\nOur second channel @This Is! http://www.youtube.com/thisis\nI stream on Twitch now! https://www.twitch.tv/austinevans\nWe have a new Discord: https://discord.gg/sQ8Sw27\nSubscribe! http://www.youtube.com/austinevans\nInstagram: http://instagram.com/austinnotduncan\nTwitter: http://twitter.com/austinnotduncan",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D-0R1i6l1Rs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D-0R1i6l1Rs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D-0R1i6l1Rs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D-0R1i6l1Rs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D-0R1i6l1Rs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Austin Evans",
+        "tags": [
+          "xbox series x",
+          "series x",
+          "xbox",
+          "xbox series x unboxing",
+          "unboxing",
+          "series x unboxing",
+          "series x vs ps5",
+          "ps5",
+          "playstation 5",
+          "xbox series x vs xbox series s",
+          "xbox series s vs xbox series x",
+          "series s vs series x",
+          "series x vs series s",
+          "console",
+          "game console",
+          "review",
+          "tech",
+          "hands on",
+          "sony",
+          "microsoft",
+          "playstation",
+          "the test drivers",
+          "test drivers",
+          "this is",
+          "austin evans"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Xbox Series X Unboxing",
+          "description": "Unboxing the brand new Xbox Series X!\nCheck out our hands on of the Xbox Series S: https://youtu.be/Gcop0L-_CX0\nXbox Series S vs Xbox Series X: https://youtu.be/P8lkMtuhu5Y\n\nMy new podcast The Test Drivers! https://www.relay.fm/testdrivers\nOur second channel @This Is! http://www.youtube.com/thisis\nI stream on Twitch now! https://www.twitch.tv/austinevans\nWe have a new Discord: https://discord.gg/sQ8Sw27\nSubscribe! http://www.youtube.com/austinevans\nInstagram: http://instagram.com/austinnotduncan\nTwitter: http://twitter.com/austinnotduncan"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT9M51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "642995",
+        "likeCount": "41269",
+        "dislikeCount": "1699",
+        "favoriteCount": "0",
+        "commentCount": "4151"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/D-0R1i6l1Rs\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/019_rr"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Xbox Series X Unboxing",
+          "description": "Unboxing the brand new Xbox Series X!\nCheck out our hands on of the Xbox Series S: https://youtu.be/Gcop0L-_CX0\nXbox Series S vs Xbox Series X: https://youtu.be/P8lkMtuhu5Y\n\nMy new podcast The Test Drivers! https://www.relay.fm/testdrivers\nOur second channel @This Is! http://www.youtube.com/thisis\nI stream on Twitch now! https://www.twitch.tv/austinevans\nWe have a new Discord: https://discord.gg/sQ8Sw27\nSubscribe! http://www.youtube.com/austinevans\nInstagram: http://instagram.com/austinnotduncan\nTwitter: http://twitter.com/austinnotduncan"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "SSV3SGY8BW_igdG5LgZBb63pSpo",
+      "id": "wAPlzt2L7wE",
+      "snippet": {
+        "publishedAt": "2020-09-10T16:00:10Z",
+        "channelId": "UCEdvpU2pFRCVqU6yIPyTpMQ",
+        "title": "Marshmello & Demi Lovato - OK Not To Be OK (Official Music Video)",
+        "description": "Marshmello & Demi Lovato - OK Not To Be OK (Official Music Video)\nStream/Download \"OK Not To Be OK\" ▶ https://oknottobeok.com\n\nHope For The Day (HFTD) is a non-profit movement empowering the conversation on proactive suicide prevention and mental health education. Join the Proactive Suicide Prevention conversation at http://www.hftd.org \n\nSuicide Prevention starts with a conversation we're not having with our mental health due to Stigma. The first step to breaking that silence is dispelling stigmas of fear, judgement, and shame about our internal experiences. We achieve that by proclaiming It's Ok Not To Be Ok!\n\nTo find more info from HFTD:\nWebsite: http://www.hftd.org \nInstagram: https://instagram.com/hopefortheday\nTwitter: https://twitter.com/HopeForTheDay\nFacebook: http://facebook.com/hopefortheday\n\nOfficial Marshmello Merch ▶ https://mellogang.com/collections/new-arrivals/\n\n[✖‿✖] SUBSCRIBE HERE ▶ http://youtube.com/marshmellomusic?sub_confirmation=1\n\nMARSHMELLO:\nMerch | https://mellogang.com/collections/new-arrivals/\nSpotify | http://spoti.fi/Marshmello\nApple Music | http://apple.co/2n8Evz6\nSoundCloud | http://soundcloud.com/marshmellomusic\nInstagram | http://instagram.com/marshmellomusic\nFacebook | http://facebook.com/marshmellomusic\nTwitter | http://twitter.com/marshmellomusic\nTwitch | http://twitch.tv/marshmellomusic\nTikTok | https://tiktok.com/@marshmellomusic\n\nDEMI LOVATO:\nYouTube | https://youtube.com/user/therealdemilovato/?sub_confirmation=1\nInstagram | http://instagram.com/ddlovato\nTwitter | http://twitter.com/ddlovato\nFacebook | http://facebook.com/demilovato\nWebsite | http://demilovato.com\nMailing list | http://demilovato.com/#mailing-list\n\nCredits:\nDirector: Hannah Lux Davis \nProducers: Aaron Johnson / Brandon Bonfiglio\nDP: Carlos Veron \nEditors: Eric Wysocki / Hannah Lux Davis\nProduction Company: London Alley\n\nLyrics:\nFeeling like a drop in the ocean that don’t nobody notice\nMaybe it’s all just in your head\nFeeling like you’re trapped in your own skin, and now your body’s frozen\nBroken down, you’ve got nothing left\nWhen you’re high on emotion and you’re losing your focus and you feel too exhausted to pray\nDon’t get lost in the moment or give up when you’re closest, all you need is somebody to say\nIt’s okay not to be okay\nIt’s okay not to be okay\nWhen you’re down and you feel ashamed\nIt’s okay not to be okay\nFeeling like your life’s an illusion and lately you’re secluded\nThinking you’ll never get your chance\nFeeling like you got no solution, it’s only ‘cause you’re human\nNo control its out of your hands \nWhen you’re high on emotion and you’re losing your focus and you feel too exhausted to pray\nDon’t get lost in the moment or give up when you’re closest, all you need is somebody to say\nIt’s okay not to be okay\nIt’s okay not to be okay\nWhen you’re down and you feel ashamed\nIt’s okay not to be okay\nWhen you’re high on emotion and you’re losing your focus and you feel too exhausted to pray\nDon’t get lost in the moment or give up when you’re closest, all you need is somebody to say\nIt’s okay not to be okay\nIt’s okay not to be okay\nWhen you’re down and you feel ashamed\nIt’s okay not to be okay\nIt’s okay not to be okay\n\n---MORE Marshmello Music\nListen to Joytime III ▶ https://ffm.to/joytimeiii\nListen to Joytime II ▶ http://smarturl.it/JOYTIMEII\n\nWATCH COME & GO MUSIC VIDEO ▶ https://youtu.be/Dxm3cHrKcbA\nWATCH BE KIND MUSIC VIDEO ▶ https://youtu.be/ePao0cTGG-o\nWATCH RESCUE ME MUSIC VIDEO ▶ https://youtu.be/lPDw1QexVy4\nWATCH ONE THING RIGHT MUSIC VIDEO ▶ https://youtu.be/29a6o5vRKVM\nWATCH HERE WITH ME MUSIC VIDEO ▶ https://youtu.be/J3UXp9jIr-U\nWATCH PROJECT DREAMS MUSIC VIDEO ▶ https://youtu.be/Hn7WDtF3nKA\nWATCH HAPPIER MUSIC VIDEO ▶ https://youtu.be/m7Bc3pLyij0\nWATCH TOGETHER MUSIC VIDEO ▶ https://youtu.be/JePnQ1gSagc\nWATCH YOU CAN CRY MUSIC VIDEO ▶ https://youtu.be/2SJ0hgdciNE\nWATCH EVERYDAY MUSIC VIDEO ▶ https://youtu.be/bEdcJY8Emm8\nWATCH FLY MUSIC VIDEO ▶ https://youtu.be/oRArmtMA9AI\nWATCH FRIENDS MUSIC VIDEO ▶ https://youtu.be/jzD_yyEcp0M\nWATCH SILENCE MUSIC VIDEO ▶ https://youtu.be/Tx1sqYc3qas\nWATCH ALONE MUSIC VIDEO ▶ https://youtu.be/ALZHF5UqnU4\nWATCH KEEP IT MELLO MUSIC VIDEO ▶ https://youtu.be/_J_VpmXAzqg\n\n#Marshmello #DemiLovato #OKNotToBeOK",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wAPlzt2L7wE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wAPlzt2L7wE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wAPlzt2L7wE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wAPlzt2L7wE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wAPlzt2L7wE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Marshmello",
+        "tags": [
+          "marshmello",
+          "demi lovato",
+          "ok not to be ok",
+          "marshmello demi lovato",
+          "marshmello demi lovato ok not to be ok",
+          "its ok not to be ok",
+          "love don't let me go",
+          "demi",
+          "mental health",
+          "suicide prevention",
+          "suicide awareness",
+          "hope for the day",
+          "pop music",
+          "demi lovato i love me",
+          "i love me",
+          "be kind",
+          "marshmello happier",
+          "marshmello alone",
+          "alone",
+          "uplifting music",
+          "positive music",
+          "halsey",
+          "blackpink",
+          "selena gomez",
+          "ice cream",
+          "wolves",
+          "ok",
+          "ok not to be ok lyrics",
+          "top songs 2020",
+          "come & go",
+          "juice wrld"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Marshmello & Demi Lovato - OK Not To Be OK (Official Music Video)",
+          "description": "Marshmello & Demi Lovato - OK Not To Be OK (Official Music Video)\nStream/Download \"OK Not To Be OK\" ▶ https://oknottobeok.com\n\nHope For The Day (HFTD) is a non-profit movement empowering the conversation on proactive suicide prevention and mental health education. Join the Proactive Suicide Prevention conversation at http://www.hftd.org \n\nSuicide Prevention starts with a conversation we're not having with our mental health due to Stigma. The first step to breaking that silence is dispelling stigmas of fear, judgement, and shame about our internal experiences. We achieve that by proclaiming It's Ok Not To Be Ok!\n\nTo find more info from HFTD:\nWebsite: http://www.hftd.org \nInstagram: https://instagram.com/hopefortheday\nTwitter: https://twitter.com/HopeForTheDay\nFacebook: http://facebook.com/hopefortheday\n\nOfficial Marshmello Merch ▶ https://mellogang.com/collections/new-arrivals/\n\n[✖‿✖] SUBSCRIBE HERE ▶ http://youtube.com/marshmellomusic?sub_confirmation=1\n\nMARSHMELLO:\nMerch | https://mellogang.com/collections/new-arrivals/\nSpotify | http://spoti.fi/Marshmello\nApple Music | http://apple.co/2n8Evz6\nSoundCloud | http://soundcloud.com/marshmellomusic\nInstagram | http://instagram.com/marshmellomusic\nFacebook | http://facebook.com/marshmellomusic\nTwitter | http://twitter.com/marshmellomusic\nTwitch | http://twitch.tv/marshmellomusic\nTikTok | https://tiktok.com/@marshmellomusic\n\nDEMI LOVATO:\nYouTube | https://youtube.com/user/therealdemilovato/?sub_confirmation=1\nInstagram | http://instagram.com/ddlovato\nTwitter | http://twitter.com/ddlovato\nFacebook | http://facebook.com/demilovato\nWebsite | http://demilovato.com\nMailing list | http://demilovato.com/#mailing-list\n\nCredits:\nDirector: Hannah Lux Davis \nProducers: Aaron Johnson / Brandon Bonfiglio\nDP: Carlos Veron \nEditors: Eric Wysocki / Hannah Lux Davis\nProduction Company: London Alley\n\nLyrics:\nFeeling like a drop in the ocean that don’t nobody notice\nMaybe it’s all just in your head\nFeeling like you’re trapped in your own skin, and now your body’s frozen\nBroken down, you’ve got nothing left\nWhen you’re high on emotion and you’re losing your focus and you feel too exhausted to pray\nDon’t get lost in the moment or give up when you’re closest, all you need is somebody to say\nIt’s okay not to be okay\nIt’s okay not to be okay\nWhen you’re down and you feel ashamed\nIt’s okay not to be okay\nFeeling like your life’s an illusion and lately you’re secluded\nThinking you’ll never get your chance\nFeeling like you got no solution, it’s only ‘cause you’re human\nNo control its out of your hands \nWhen you’re high on emotion and you’re losing your focus and you feel too exhausted to pray\nDon’t get lost in the moment or give up when you’re closest, all you need is somebody to say\nIt’s okay not to be okay\nIt’s okay not to be okay\nWhen you’re down and you feel ashamed\nIt’s okay not to be okay\nWhen you’re high on emotion and you’re losing your focus and you feel too exhausted to pray\nDon’t get lost in the moment or give up when you’re closest, all you need is somebody to say\nIt’s okay not to be okay\nIt’s okay not to be okay\nWhen you’re down and you feel ashamed\nIt’s okay not to be okay\nIt’s okay not to be okay\n\n---MORE Marshmello Music\nListen to Joytime III ▶ https://ffm.to/joytimeiii\nListen to Joytime II ▶ http://smarturl.it/JOYTIMEII\n\nWATCH COME & GO MUSIC VIDEO ▶ https://youtu.be/Dxm3cHrKcbA\nWATCH BE KIND MUSIC VIDEO ▶ https://youtu.be/ePao0cTGG-o\nWATCH RESCUE ME MUSIC VIDEO ▶ https://youtu.be/lPDw1QexVy4\nWATCH ONE THING RIGHT MUSIC VIDEO ▶ https://youtu.be/29a6o5vRKVM\nWATCH HERE WITH ME MUSIC VIDEO ▶ https://youtu.be/J3UXp9jIr-U\nWATCH PROJECT DREAMS MUSIC VIDEO ▶ https://youtu.be/Hn7WDtF3nKA\nWATCH HAPPIER MUSIC VIDEO ▶ https://youtu.be/m7Bc3pLyij0\nWATCH TOGETHER MUSIC VIDEO ▶ https://youtu.be/JePnQ1gSagc\nWATCH YOU CAN CRY MUSIC VIDEO ▶ https://youtu.be/2SJ0hgdciNE\nWATCH EVERYDAY MUSIC VIDEO ▶ https://youtu.be/bEdcJY8Emm8\nWATCH FLY MUSIC VIDEO ▶ https://youtu.be/oRArmtMA9AI\nWATCH FRIENDS MUSIC VIDEO ▶ https://youtu.be/jzD_yyEcp0M\nWATCH SILENCE MUSIC VIDEO ▶ https://youtu.be/Tx1sqYc3qas\nWATCH ALONE MUSIC VIDEO ▶ https://youtu.be/ALZHF5UqnU4\nWATCH KEEP IT MELLO MUSIC VIDEO ▶ https://youtu.be/_J_VpmXAzqg\n\n#Marshmello #DemiLovato #OKNotToBeOK"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M53S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1240565",
+        "likeCount": "185205",
+        "dislikeCount": "2949",
+        "favoriteCount": "0",
+        "commentCount": "11298"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"360\" src=\"//www.youtube.com/embed/wAPlzt2L7wE\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/04rlf",
+          "/m/064t9",
+          "/m/02lkt",
+          "/m/04rlf",
+          "/m/064t9",
+          "/m/02lkt"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Pop_music",
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Electronic_music"
+        ]
+      },
+      "recordingDetails": {},
+      "liveStreamingDetails": {
+        "actualStartTime": "2020-09-10T16:00:10Z",
+        "actualEndTime": "2020-09-10T16:05:00Z",
+        "scheduledStartTime": "2020-09-10T16:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rohZsuYPkWQxF7DX5ymmtv8Vzek",
+      "id": "K0cA-P867QM",
+      "snippet": {
+        "publishedAt": "2020-09-09T17:48:12Z",
+        "channelId": "UC0CG8Kj2DqFc9bJld0hJKBA",
+        "title": "Our Bedroom Makeover Reveal!",
+        "description": "I have NEW merch! Order My Tea Hoodie !! https://www.shanedawsonmerch.com/\n\nSubscribe to Morgan https://www.youtube.com/channel/UCSfL...\nSubscribe to Shane https://www.youtube.com/user/shane/vi... \nHis Second Channel https://www.youtube.com/channel/UCAVo...\n\nWATCH MY LAST VIDEO: \"My Past, My Present, and My Future (30 Days of Meditation)\" https://youtu.be/yclipg0DA9M\n\n\nADD ME ON:\nINSTAGRAM: https://www.instagram.com/rylandadams...\nTWITTER: https://twitter.com/ryland_adams?lang=en\nSNAPCHAT: @rylandadams",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K0cA-P867QM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K0cA-P867QM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K0cA-P867QM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K0cA-P867QM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K0cA-P867QM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ryland Adams",
+        "tags": [
+          "Ryland Adams",
+          "Shane Dawson",
+          "Morgan Adams",
+          "Makeover",
+          "Reveal",
+          "Design",
+          "DIY",
+          "Homes",
+          "House Tour"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Our Bedroom Makeover Reveal!",
+          "description": "I have NEW merch! Order My Tea Hoodie !! https://www.shanedawsonmerch.com/\n\nSubscribe to Morgan https://www.youtube.com/channel/UCSfL...\nSubscribe to Shane https://www.youtube.com/user/shane/vi... \nHis Second Channel https://www.youtube.com/channel/UCAVo...\n\nWATCH MY LAST VIDEO: \"My Past, My Present, and My Future (30 Days of Meditation)\" https://youtu.be/yclipg0DA9M\n\n\nADD ME ON:\nINSTAGRAM: https://www.instagram.com/rylandadams...\nTWITTER: https://twitter.com/ryland_adams?lang=en\nSNAPCHAT: @rylandadams"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT18M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1249097",
+        "likeCount": "113725",
+        "dislikeCount": "24035",
+        "favoriteCount": "0",
+        "commentCount": "33384"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/K0cA-P867QM\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/019_rr",
+          "/m/03glg",
+          "/m/019_rr",
+          "/m/03glg"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {}
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zxNyrtw-bxv9N3yFNTaIC8QP0gc",
+      "id": "Bfwh_taxvVA",
+      "snippet": {
+        "publishedAt": "2020-09-09T16:01:39Z",
+        "channelId": "UCbg_UMjlHJg_19SZckaKajg",
+        "title": "NLE Choppa, Rod Wave, Lil Tjay and Chika's 2020 XXL Freshman Cypher",
+        "description": "Subscribe to XXL → http://bit.ly/subscribe-xxl \r\n\nWatch NLE Choppa, Rod Wave, Lil Tjay and Chika's 2020 XXL Freshman cypher.\n\nBeat produced by Jetsonmade.\n\nVisit the 2020 XXL Freshman Class website → https://www.xxlmag.com/freshman/\n\nPurchase the 2020 XXL Freshman Class magazine issue online: https://shop.xxlmag.com/p/xxl-freshman-class-2020-magazine\n\nCredits: \nDirected by @travissatten \nProduced by @ritemediagroup \n\n#Cyphers #Cypher #XXLFreshman #XXLFreshman #HipHop #2020XXLFreshman #HipHopCypher #NLEChoppa #RodWave #LilTjay #Chika #HipHop\n\r\nGo here → http://www.xxlmag.com/\r\nXXL on Facebook → https://www.facebook.com/xxlmag\r\nXXL on Twitter → https://twitter.com/XXL\r\nXXL on Instagram → https://instagram.com/xxl/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bfwh_taxvVA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bfwh_taxvVA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bfwh_taxvVA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Bfwh_taxvVA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Bfwh_taxvVA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "XXL",
+        "tags": [
+          "cypher",
+          "cyphers",
+          "hip-hop",
+          "rap",
+          "rapper",
+          "xxl freshman",
+          "xxl freshmen",
+          "2020 xxl freshman",
+          "2020 xxl freshmen",
+          "hip-hop cypher",
+          "hip-hop cyphers",
+          "nle choppa",
+          "chika",
+          "lil tjay",
+          "rod wave",
+          "nle choppa cypher",
+          "lil tjay cypher",
+          "chika cypher",
+          "rod wave cypher",
+          "nle choppa rod wave lil tjay chika cypher",
+          "2020 xxl freshman cypher",
+          "xxl freshman cypher"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "NLE Choppa, Rod Wave, Lil Tjay and Chika's 2020 XXL Freshman Cypher",
+          "description": "Subscribe to XXL → http://bit.ly/subscribe-xxl \r\n\nWatch NLE Choppa, Rod Wave, Lil Tjay and Chika's 2020 XXL Freshman cypher.\n\nBeat produced by Jetsonmade.\n\nVisit the 2020 XXL Freshman Class website → https://www.xxlmag.com/freshman/\n\nPurchase the 2020 XXL Freshman Class magazine issue online: https://shop.xxlmag.com/p/xxl-freshman-class-2020-magazine\n\nCredits: \nDirected by @travissatten \nProduced by @ritemediagroup \n\n#Cyphers #Cypher #XXLFreshman #XXLFreshman #HipHop #2020XXLFreshman #HipHopCypher #NLEChoppa #RodWave #LilTjay #Chika #HipHop\n\r\nGo here → http://www.xxlmag.com/\r\nXXL on Facebook → https://www.facebook.com/xxlmag\r\nXXL on Twitter → https://twitter.com/XXL\r\nXXL on Instagram → https://instagram.com/xxl/"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT3M55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2563051",
+        "likeCount": "192786",
+        "dislikeCount": "3272",
+        "favoriteCount": "0",
+        "commentCount": "30711"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/Bfwh_taxvVA\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      },
+      "recordingDetails": {}
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7xChl1uf-7hXmNtCXpUAQRa1HKs",
+      "id": "zxJDdRgs7Lw",
+      "snippet": {
+        "publishedAt": "2020-09-10T13:00:28Z",
+        "channelId": "UCkWQ0gDrqOCarmUKmppD7GQ",
+        "title": "We finally have our hands on the NVIDIA RTX 3080!",
+        "description": "We got our hands on the NVIDIA RTX 3080 and it's BEAUTIFUL! Let's talk about what you need to know before buying one... \n\n**iFixit has over 60,000 tutorials and guides to help you repair your electronics FOR FREE! To see a complete list of guides and tools head to https://www.ifixit.com/jayztwocents\n**And to get your very own iFixit Tools from Amazon head to - https://amzn.to/2Xu1xE2\n\n○○○○○○ Items featured in this video available at Amazon ○○○○○○\n\n► Amazon US - http://bit.ly/1meybOF\n► Amazon UK - http://amzn.to/Zx813L\n► Amazon Canada - http://amzn.to/1tl6vc6\n\nGet your JayzTwoCents Merch Here! - https://crowdmade.com/collections/jayztwocents\n\n••• Follow me on your favorite Social Media! •••\nFacebook: http://www.facebook.com/jayztwocents\nTwitter: http://www.twitter.com/jayztwocents\nInstagram: http://instagram.com/jayztwocents#\nSUBSCRIBE! http://bit.ly/sub2JayzTwoCents",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zxJDdRgs7Lw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zxJDdRgs7Lw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zxJDdRgs7Lw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zxJDdRgs7Lw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zxJDdRgs7Lw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JayzTwoCents",
+        "tags": [
+          "30 series gpu",
+          "30 series video card",
+          "nvidia",
+          "rtx",
+          "nvidia rtx",
+          "rtx 3070",
+          "rtx 3080",
+          "rtx 3090",
+          "nvidia vs amd",
+          "amd vs nvidia",
+          "is the 3080 worth it",
+          "is the 3090 worth it",
+          "is the 3070 worth it",
+          "should I buy a 3070",
+          "should i buy a 3080",
+          "should I buy a 3090",
+          "is nvidia worth it",
+          "is amd worth it",
+          "how much is rtx 3070",
+          "how much is 3080",
+          "how much is 3090",
+          "how much does a 3070 cost",
+          "how much does a 3080 cost",
+          "how much does a 3090 cost",
+          "best video card 2020",
+          "best video card 2021",
+          "best"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "We finally have our hands on the NVIDIA RTX 3080!",
+          "description": "We got our hands on the NVIDIA RTX 3080 and it's BEAUTIFUL! Let's talk about what you need to know before buying one... \n\n**iFixit has over 60,000 tutorials and guides to help you repair your electronics FOR FREE! To see a complete list of guides and tools head to https://www.ifixit.com/jayztwocents\n**And to get your very own iFixit Tools from Amazon head to - https://amzn.to/2Xu1xE2\n\n○○○○○○ Items featured in this video available at Amazon ○○○○○○\n\n► Amazon US - http://bit.ly/1meybOF\n► Amazon UK - http://amzn.to/Zx813L\n► Amazon Canada - http://amzn.to/1tl6vc6\n\nGet your JayzTwoCents Merch Here! - https://crowdmade.com/collections/jayztwocents\n\n••• Follow me on your favorite Social Media! •••\nFacebook: http://www.facebook.com/jayztwocents\nTwitter: http://www.twitter.com/jayztwocents\nInstagram: http://instagram.com/jayztwocents#\nSUBSCRIBE! http://bit.ly/sub2JayzTwoCents"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT17M35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1513912",
+        "likeCount": "85659",
+        "dislikeCount": "3008",
+        "favoriteCount": "0",
+        "commentCount": "11993"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/zxJDdRgs7Lw\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/019_rr",
+          "/m/07c1v",
+          "/m/019_rr",
+          "/m/07c1v"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Technology",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {}
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7evYsmft7NxlH2-u00b1_B8HnAQ",
+      "id": "roLRvN4W2XI",
+      "snippet": {
+        "publishedAt": "2020-09-10T00:25:26Z",
+        "channelId": "UCT350j4u6alUKyF9eu2bGug",
+        "title": "California wildfires evening update: September 9, 2020",
+        "description": "Tracking California wildfires, including the Bear Fire and Willow Fire as well as air quality in the region.\n\nBear Fire updates: https://www.abc10.com/article/news/local/wildfire/bear-fire-map-evacuations/103-e5ad1ecc-2953-480e-b4a5-e162cd50ee72\nWillow Fire updates: https://www.abc10.com/article/news/local/wildfire/willow-fire-yuba-county/103-59a36f7e-60bf-4ef8-8ef2-e4079b9f0e16\n\nSubscribe at: https://goo.gl/vai8Eu\nFind ABC10 online: https://www.abc10.com/\nSign up for our newsletter: https://www.abc10.com/email \nStream ABC10 on Roku: https://channelstore.roku.com/details/63398/abc10\nStream ABC10 on Amazon Fire: https://www.amazon.com/Gannett-Broadcasting-ABC-10-Fire/dp/B01E0H2KZQ\nStream ABC10 on AppleTV: https://itunes.apple.com/us/app/abc10-news-weather-traffic/id469397853?mt=8\nLike ABC10 on Facebook: https://www.facebook.com/ABC10tv/ \nLike ABC10 on Instagram: https://www.instagram.com/abc10tv\nFollow ABC10 on Twitter: https://twitter.com/ABC10",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/roLRvN4W2XI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/roLRvN4W2XI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/roLRvN4W2XI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/roLRvN4W2XI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/roLRvN4W2XI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ABC10",
+        "tags": [
+          "wildfire",
+          "california",
+          "local",
+          "news",
+          "weather",
+          "raw-video",
+          "ott",
+          "california wildfires",
+          "bear fire",
+          "lake oroville",
+          "lake oroville fire",
+          "bear creek",
+          "bear creek fire",
+          "willow fire",
+          "yuba county fire",
+          "yuba fire",
+          "oroville fire",
+          "california wildfires evening update",
+          "california wildfires update september 9 2020",
+          "willow fire update",
+          "bear fire update",
+          "kxtv",
+          "orovile fire update",
+          "lake oroville fire update",
+          "abc10"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "California wildfires evening update: September 9, 2020",
+          "description": "Tracking California wildfires, including the Bear Fire and Willow Fire as well as air quality in the region.\n\nBear Fire updates: https://www.abc10.com/article/news/local/wildfire/bear-fire-map-evacuations/103-e5ad1ecc-2953-480e-b4a5-e162cd50ee72\nWillow Fire updates: https://www.abc10.com/article/news/local/wildfire/willow-fire-yuba-county/103-59a36f7e-60bf-4ef8-8ef2-e4079b9f0e16\n\nSubscribe at: https://goo.gl/vai8Eu\nFind ABC10 online: https://www.abc10.com/\nSign up for our newsletter: https://www.abc10.com/email \nStream ABC10 on Roku: https://channelstore.roku.com/details/63398/abc10\nStream ABC10 on Amazon Fire: https://www.amazon.com/Gannett-Broadcasting-ABC-10-Fire/dp/B01E0H2KZQ\nStream ABC10 on AppleTV: https://itunes.apple.com/us/app/abc10-news-weather-traffic/id469397853?mt=8\nLike ABC10 on Facebook: https://www.facebook.com/ABC10tv/ \nLike ABC10 on Instagram: https://www.instagram.com/abc10tv\nFollow ABC10 on Twitter: https://twitter.com/ABC10"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT9M33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "876111",
+        "likeCount": "7049",
+        "dislikeCount": "459",
+        "favoriteCount": "0",
+        "commentCount": "3799"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/roLRvN4W2XI\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      },
+      "recordingDetails": {
+        "recordingDate": "2020-09-09T00:00:00Z"
+      },
+      "localizations": {
+        "en": {
+          "title": "California wildfires evening update: September 9, 2020",
+          "description": "Tracking California wildfires, including the Bear Fire and Willow Fire as well as air quality in the region.\n\nBear Fire updates: https://www.abc10.com/article/news/local/wildfire/bear-fire-map-evacuations/103-e5ad1ecc-2953-480e-b4a5-e162cd50ee72\nWillow Fire updates: https://www.abc10.com/article/news/local/wildfire/willow-fire-yuba-county/103-59a36f7e-60bf-4ef8-8ef2-e4079b9f0e16\n\nSubscribe at: https://goo.gl/vai8Eu\nFind ABC10 online: https://www.abc10.com/\nSign up for our newsletter: https://www.abc10.com/email \nStream ABC10 on Roku: https://channelstore.roku.com/details/63398/abc10\nStream ABC10 on Amazon Fire: https://www.amazon.com/Gannett-Broadcasting-ABC-10-Fire/dp/B01E0H2KZQ\nStream ABC10 on AppleTV: https://itunes.apple.com/us/app/abc10-news-weather-traffic/id469397853?mt=8\nLike ABC10 on Facebook: https://www.facebook.com/ABC10tv/ \nLike ABC10 on Instagram: https://www.instagram.com/abc10tv\nFollow ABC10 on Twitter: https://twitter.com/ABC10"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xwgqLTMbWok7swFogH45W3aQQ8U",
+      "id": "dYyg3udrV78",
+      "snippet": {
+        "publishedAt": "2020-09-10T13:18:09Z",
+        "channelId": "UCdBK94H6oZT2Q7l0-b0xmMg",
+        "title": "I've never held so much graphics POWAHHH",
+        "description": "Get $25 off Vessi Footwear with offer code shortcircuit at https://www.vessi.com/shortcircuit\n\nNVIDIA released its 3000 series of video cards and it's safe to say that what they're claiming shook the entire industry. Their Founder Edition cards are looking better than ever but it's not all for looks, let's take a peek at their 3080. \n\nCheck out the Geforce RTX 3080 at https://lmg.gg/nwPok\n\nBuy Geforce RTX Video Cards\nOn Amazon (PAID LINK): https://geni.us/shiIcT\nOn Newegg (PAID LINK): https://geni.us/xnIAqoZ\nOn B&H (PAID LINK): https://geni.us/iPVY8c\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n►GET MERCH: http://www.LTTStore.com/\n►SUPPORT US ON FLOATPLANE: https://www.floatplane.com/  \n►LTX EXPO: https://www.ltxexpo.com/   \n\nAFFILIATES & REFERRALS\n---------------------------------------------------\n►Affiliates, Sponsors & Referrals: https://lmg.gg/sponsors\n►Private Internet Access VPN: https://lmg.gg/pialinus2\n►MK Keyboards: https://lmg.gg/LyLtl\n►Nerd or Die Stream Overlays: https://lmg.gg/avLlO\n►NEEDforSEAT Gaming Chairs: https://lmg.gg/DJQYb\n►Displate Metal Prints: https://lmg.gg/displateltt\n►Epic Games Store (LINUSMEDIAGROUP): https://lmg.gg/kRTpY\n►Amazon Prime: https://lmg.gg/8KV1v\n►Audible Free Trial: https://lmg.gg/8242J\n►Our Gear on Amazon: https://geni.us/OhmF\n \nFOLLOW US ELSEWHERE\n---------------------------------------------------  \nTwitter: https://twitter.com/ShrtCrctYT\nInstagram: https://www.instagram.com/shortcircuityt\nFacebook: https://www.facebook.com/ShortCircuitYT  \n\nFOLLOW OUR OTHER CHANNELS\n---------------------------------------------------  \nLinus Tech Tips: https://lmg.gg/linustechtipsyt\nTechLinked: https://lmg.gg/techlinkedyt\nTechquickie: https://lmg.gg/techquickieyt  \n\nLMG Clips: https://lmg.gg/lmgclipsyt\nChannel Super Fun: https://lmg.gg/channelsuperfunyt\nCarpool Critics: https://lmg.gg/carpoolcriticsyt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dYyg3udrV78/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dYyg3udrV78/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dYyg3udrV78/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dYyg3udrV78/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dYyg3udrV78/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ShortCircuit",
+        "tags": [
+          "NVIDIA",
+          "RTX",
+          "3000",
+          "3080",
+          "3090",
+          "Unboxing",
+          "Linus",
+          "Video Card",
+          "Gaming",
+          "PC",
+          "Ultimate",
+          "Ray Tracing",
+          "Ampere",
+          "GDDR6X",
+          "DLSS",
+          "AI",
+          "8K",
+          "4K",
+          "Broadcast",
+          "Reflex",
+          "Software",
+          "Stream",
+          "FPS",
+          "HDMI 2.1",
+          "2080",
+          "2080 Ti",
+          "New"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "I've never held so much graphics POWAHHH",
+          "description": "Get $25 off Vessi Footwear with offer code shortcircuit at https://www.vessi.com/shortcircuit\n\nNVIDIA released its 3000 series of video cards and it's safe to say that what they're claiming shook the entire industry. Their Founder Edition cards are looking better than ever but it's not all for looks, let's take a peek at their 3080. \n\nCheck out the Geforce RTX 3080 at https://lmg.gg/nwPok\n\nBuy Geforce RTX Video Cards\nOn Amazon (PAID LINK): https://geni.us/shiIcT\nOn Newegg (PAID LINK): https://geni.us/xnIAqoZ\nOn B&H (PAID LINK): https://geni.us/iPVY8c\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n►GET MERCH: http://www.LTTStore.com/\n►SUPPORT US ON FLOATPLANE: https://www.floatplane.com/  \n►LTX EXPO: https://www.ltxexpo.com/   \n\nAFFILIATES & REFERRALS\n---------------------------------------------------\n►Affiliates, Sponsors & Referrals: https://lmg.gg/sponsors\n►Private Internet Access VPN: https://lmg.gg/pialinus2\n►MK Keyboards: https://lmg.gg/LyLtl\n►Nerd or Die Stream Overlays: https://lmg.gg/avLlO\n►NEEDforSEAT Gaming Chairs: https://lmg.gg/DJQYb\n►Displate Metal Prints: https://lmg.gg/displateltt\n►Epic Games Store (LINUSMEDIAGROUP): https://lmg.gg/kRTpY\n►Amazon Prime: https://lmg.gg/8KV1v\n►Audible Free Trial: https://lmg.gg/8242J\n►Our Gear on Amazon: https://geni.us/OhmF\n \nFOLLOW US ELSEWHERE\n---------------------------------------------------  \nTwitter: https://twitter.com/ShrtCrctYT\nInstagram: https://www.instagram.com/shortcircuityt\nFacebook: https://www.facebook.com/ShortCircuitYT  \n\nFOLLOW OUR OTHER CHANNELS\n---------------------------------------------------  \nLinus Tech Tips: https://lmg.gg/linustechtipsyt\nTechLinked: https://lmg.gg/techlinkedyt\nTechquickie: https://lmg.gg/techquickieyt  \n\nLMG Clips: https://lmg.gg/lmgclipsyt\nChannel Super Fun: https://lmg.gg/channelsuperfunyt\nCarpool Critics: https://lmg.gg/carpoolcriticsyt"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT8M40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "663194",
+        "likeCount": "45008",
+        "dislikeCount": "785",
+        "favoriteCount": "0",
+        "commentCount": "3354"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/dYyg3udrV78\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      },
+      "recordingDetails": {}
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gCnWTTk4-XRaCtT11t2t1ayO6m4",
+      "id": "gqnETy_qMnI",
+      "snippet": {
+        "publishedAt": "2020-09-10T03:18:57Z",
+        "channelId": "UCFN4JkGP_bVhAdBsoV9xftA",
+        "title": "Holy MIRO!!! Is the Best Man | AEW Dynamite, 9/9/20",
+        "description": "#AEWDynamite airs every Wednesday night 8e/7c on TNT\n#AEWDark airs every Tuesday night 7e/6c here on YouTube\nHow to watch Dynamite\n➡️  Fite TV - https://www.fite.tv/channel/aew\n➡️  BR Live - https://www.AEWonBRLive.com\n➡️  TNT - https://www.tntdrama.com/allelitewrestling\n\nFollow #AllEliteWrestling on all social media platforms\n➡️  https://www.Twitter.com/aewrestling\n➡️  https://www.Twitter.com/AEWonTNT\n➡️  https://www.Facebook.com/allelitewrestling\n➡️  https://www.instagram.com/allelitewrestling\n➡️  https://www.instagram.com/AEWonTNT\n➡️  Tik Tok - AllEliteWrestling\n➡️  Snapchat - AllEliteWrestling",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gqnETy_qMnI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gqnETy_qMnI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gqnETy_qMnI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gqnETy_qMnI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gqnETy_qMnI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "All Elite Wrestling",
+        "tags": [
+          "All Elite Wrestling",
+          "AEW",
+          "AEW Wrestling",
+          "All Elite",
+          "AEWrestling",
+          "The Young Bucks",
+          "Cody Rhodes",
+          "Cody",
+          "Brandi Rhodes",
+          "Nick Jackson",
+          "Matt Jackson",
+          "Chris Jericho",
+          "Y2J",
+          "Fozzy",
+          "Pro Wrestling",
+          "Kenny Omega",
+          "The Elite",
+          "Being the Elite",
+          "Jon Moxley",
+          "Dean Ambrose",
+          "the Shield",
+          "NXT",
+          "NJPW",
+          "New Japan",
+          "Ric Flair",
+          "Luchasaurus",
+          "Jungle Boy",
+          "Jack Perry",
+          "MOX",
+          "AEW DYNAMITE HIGHLIGHTS",
+          "#AEWDYNAMITE",
+          "AEW ON TNT",
+          "AEWonTNT",
+          "Jurassic Express",
+          "Jake Hager",
+          "Inner Circle",
+          "Join Dark Order"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Holy MIRO!!! Is the Best Man | AEW Dynamite, 9/9/20",
+          "description": "#AEWDynamite airs every Wednesday night 8e/7c on TNT\n#AEWDark airs every Tuesday night 7e/6c here on YouTube\nHow to watch Dynamite\n➡️  Fite TV - https://www.fite.tv/channel/aew\n➡️  BR Live - https://www.AEWonBRLive.com\n➡️  TNT - https://www.tntdrama.com/allelitewrestling\n\nFollow #AllEliteWrestling on all social media platforms\n➡️  https://www.Twitter.com/aewrestling\n➡️  https://www.Twitter.com/AEWonTNT\n➡️  https://www.Facebook.com/allelitewrestling\n➡️  https://www.instagram.com/allelitewrestling\n➡️  https://www.instagram.com/AEWonTNT\n➡️  Tik Tok - AllEliteWrestling\n➡️  Snapchat - AllEliteWrestling"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT4M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1099282",
+        "likeCount": "39608",
+        "dislikeCount": "1011",
+        "favoriteCount": "0",
+        "commentCount": "5226"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/gqnETy_qMnI\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/06ntj",
+          "/m/066wd",
+          "/m/0f2f9"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Professional_wrestling",
+          "https://en.wikipedia.org/wiki/Television_program",
+          "https://en.wikipedia.org/wiki/Sport"
+        ]
+      },
+      "recordingDetails": {}
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-6-RZ93idLkG2RvKa-FGaw05Ngo",
+      "id": "p_IHQJy8feU",
+      "snippet": {
+        "publishedAt": "2020-09-10T17:00:08Z",
+        "channelId": "UCbLj9QP9FAaHs_647QckGtg",
+        "title": "Shadowlands Afterlives: Ardenweald",
+        "description": "Within the forests of Ardenweald, keepers tend to their groves, caring for the Nature Spirits who await their rebirth. But as one keeper fights to protect his dying grove in a time of drought, he is faced with a terrible choice.\n\n► Get the latest WoW news: http://worldofwarcraft.com/news \n► Subscribe to WoW: http://blizz.ly/WoWYTSub\n► Shop WoW: https://blizz.ly/3hDM1Na \n\n--\n\n► Follow Warcraft on Twitter: https://twitter.com/warcraft \n► Follow Warcraft on Instagram: https://instagram.com/warcraft \n► Like Warcraft on Facebook: https://facebook.com/warcraft",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p_IHQJy8feU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p_IHQJy8feU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p_IHQJy8feU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p_IHQJy8feU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p_IHQJy8feU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "World of Warcraft",
+        "tags": [
+          "World of Warcraft",
+          "WoW",
+          "Warcraft",
+          "Blizzard",
+          "Blizzard Entertainment",
+          "Shadowlands",
+          "Afterlives",
+          "ANimated",
+          "Animation",
+          "short",
+          "series",
+          "ardenweald",
+          "winter queen",
+          "night fae"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Shadowlands Afterlives: Ardenweald",
+          "description": "Within the forests of Ardenweald, keepers tend to their groves, caring for the Nature Spirits who await their rebirth. But as one keeper fights to protect his dying grove in a time of drought, he is faced with a terrible choice.\n\n► Get the latest WoW news: http://worldofwarcraft.com/news \n► Subscribe to WoW: http://blizz.ly/WoWYTSub\n► Shop WoW: https://blizz.ly/3hDM1Na \n\n--\n\n► Follow Warcraft on Twitter: https://twitter.com/warcraft \n► Follow Warcraft on Instagram: https://instagram.com/warcraft \n► Like Warcraft on Facebook: https://facebook.com/warcraft"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT6M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "593317",
+        "likeCount": "32401",
+        "dislikeCount": "1518",
+        "favoriteCount": "0",
+        "commentCount": "4545"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/p_IHQJy8feU\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/04rlf"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {}
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rAws_BRHNCHA-PPdp6SOjK-fs_k",
+      "id": "PK6O4-gqL9w",
+      "snippet": {
+        "publishedAt": "2020-09-09T17:00:05Z",
+        "channelId": "UC-PbLusIBd3ECYtvz-f0EcQ",
+        "title": "Pooh Shiesty Covers Gucci Mane's Classic Hit \"Lemonade\" I 17 Bars",
+        "description": "Audiomack and Gucci Mane present 17 Bars with The New 1017—a limited video series that will span over the next six weeks. Each apprentice will cover infamous tracks by the Trap God! \n\nFirst up we have Pooh Shiesty, the Memphis rapper, covering Gucci Mane’s classic hit “Lemonade.” \n\nSubscribe to Audiomack: https://amack.it/subscribe \n\nListen to this freestyle on Audiomack: https://audiomack.com/pooh-shiesty/song/lemonade-freestyle\n\nCheck out more from Pooh Shiesty: https://m.youtube.com/channel/UCTBIIbIs83IBsy4E1BQxYBw c\n\nWatch Trap Symphony: https://bit.ly/TrapSymphony \r\nWatch Fine Tuned: https://bit.ly/FineTunedYouTube \r\nWatch Prank Calls w/ Audiomack: https://bit.ly/PrankCallsAudioMack\r\n\r\nAudiomack on Instagram: https://amack.it/insta \r\nAudiomack on Twitter: https://amack.it/twitter \r\nAudiomack on Facebook: https://amack.it/facebook \r\nDownload the app: https://audiomack.app.link/v2email\r\n\r\nAudiomack is a FREE, limitless music sharing and discovery platform for artists, tastemakers, labels, and fans. Download the app to discover millions of new artists, songs and sounds for free here: https: //audiomack.app.link/v2email\r\n\r\n#Audiomack #17Bars #1017 #GucciMane# PoohShiesty",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PK6O4-gqL9w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PK6O4-gqL9w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PK6O4-gqL9w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PK6O4-gqL9w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PK6O4-gqL9w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "audiomack",
+        "tags": [
+          "audiomack",
+          "audio mack",
+          "trap symphony",
+          "fine tuned",
+          "prank calls",
+          "audiomack ink",
+          "interviews",
+          "hip hop interviews",
+          "audiomack app",
+          "pooh",
+          "pooh shiesty",
+          "1017",
+          "1017 brick squad",
+          "gucci mane",
+          "gucci mane lemonade",
+          "lemonade gucci",
+          "the new 1017",
+          "memphis rapper",
+          "audiomack fine tuned",
+          "audiomack trap symphony",
+          "monday to sunday pooh shiesty",
+          "7.62 god",
+          "shiesty summer",
+          "moneybagg yo",
+          "tay keith",
+          "lil baby pooh shiesty",
+          "lil baby",
+          "steppin pooh",
+          "pooh shiesty freestyle",
+          "pooh shiesty live"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Pooh Shiesty Covers Gucci Mane's Classic Hit \"Lemonade\" I 17 Bars",
+          "description": "Audiomack and Gucci Mane present 17 Bars with The New 1017—a limited video series that will span over the next six weeks. Each apprentice will cover infamous tracks by the Trap God! \n\nFirst up we have Pooh Shiesty, the Memphis rapper, covering Gucci Mane’s classic hit “Lemonade.” \n\nSubscribe to Audiomack: https://amack.it/subscribe \n\nListen to this freestyle on Audiomack: https://audiomack.com/pooh-shiesty/song/lemonade-freestyle\n\nCheck out more from Pooh Shiesty: https://m.youtube.com/channel/UCTBIIbIs83IBsy4E1BQxYBw c\n\nWatch Trap Symphony: https://bit.ly/TrapSymphony \r\nWatch Fine Tuned: https://bit.ly/FineTunedYouTube \r\nWatch Prank Calls w/ Audiomack: https://bit.ly/PrankCallsAudioMack\r\n\r\nAudiomack on Instagram: https://amack.it/insta \r\nAudiomack on Twitter: https://amack.it/twitter \r\nAudiomack on Facebook: https://amack.it/facebook \r\nDownload the app: https://audiomack.app.link/v2email\r\n\r\nAudiomack is a FREE, limitless music sharing and discovery platform for artists, tastemakers, labels, and fans. Download the app to discover millions of new artists, songs and sounds for free here: https: //audiomack.app.link/v2email\r\n\r\n#Audiomack #17Bars #1017 #GucciMane# PoohShiesty"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "307613",
+        "likeCount": "10450",
+        "dislikeCount": "357",
+        "favoriteCount": "0",
+        "commentCount": "622"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/PK6O4-gqL9w\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/04rlf",
+          "/m/06j6l",
+          "/m/0glt670",
+          "/m/04rlf",
+          "/m/0glt670"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Rhythm_and_blues"
+        ]
+      },
+      "recordingDetails": {}
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "C7ieEGNxuhwWySrKAHN0l1n-8xs",
+      "id": "Dil4QG3BpfA",
+      "snippet": {
+        "publishedAt": "2020-09-10T13:31:24Z",
+        "channelId": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "title": "KBS News9 Interview with BTS [Subs / 2020.09.10]",
+        "description": "Click the \"Caption\" button to activate subtitle!\n\n▶Subscribe KBS World Official Pages\nYoutube Subscribe：https://www.youtube.com/kbsworld\nHomepage: http://www.kbsworld.co.kr \nFacebook: http://www.facebook.com/kbsworld\nTwitter: http://twitter.com/kbsworldtv \nInstagram: https://www.instagram.com/kbsworldtv/\nLine: https://goo.gl/g5iRQV\nAndroid Download : http://bit.ly/1NOZFKr\nIOS Download : http://apple.co/1NktctW\n#kbs #bts #dynamite #army",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dil4QG3BpfA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dil4QG3BpfA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dil4QG3BpfA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Dil4QG3BpfA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Dil4QG3BpfA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS World",
+        "tags": [
+          "kbs",
+          "kbsworld",
+          "kbs world",
+          "韓流",
+          "放送",
+          "韩国综艺",
+          "韩国电视剧",
+          "truyền hình Hàn Quốc",
+          "ประเทศเกาหลีใต้",
+          "ละคร",
+          "Corea",
+          "Corée",
+          "دراما",
+          "دراما كورية",
+          "kbskpop",
+          "yt:cc=on",
+          "kpop",
+          "Korea",
+          "Korean",
+          "Drama",
+          "KBS",
+          "K-Pop",
+          "Documentary",
+          "Music",
+          "Bank",
+          "영어자막",
+          "English",
+          "Subtitle",
+          "kbsworldTV",
+          "Caption",
+          "World",
+          "musicbank",
+          "kbs월드",
+          "월드TV",
+          "kbs 월드",
+          "world tv",
+          "worlddtv",
+          "koreaTV",
+          "koreanTV",
+          "korea TV",
+          "korean TV",
+          "케이팝",
+          "kTV",
+          "K TV",
+          "한국방송",
+          "월드",
+          "eng",
+          "sub eng",
+          "South Korea",
+          "idol stage",
+          "idol",
+          "BTS",
+          "방탄",
+          "방탄소년단",
+          "아미",
+          "ARMY",
+          "Dynamite",
+          "다이너마이트",
+          "bts kbs interview",
+          "interview",
+          "방탄 kbs"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "KBS News9 Interview with BTS [Subs / 2020.09.10]",
+          "description": "Click the \"Caption\" button to activate subtitle!\n\n▶Subscribe KBS World Official Pages\nYoutube Subscribe：https://www.youtube.com/kbsworld\nHomepage: http://www.kbsworld.co.kr \nFacebook: http://www.facebook.com/kbsworld\nTwitter: http://twitter.com/kbsworldtv \nInstagram: https://www.instagram.com/kbsworldtv/\nLine: https://goo.gl/g5iRQV\nAndroid Download : http://bit.ly/1NOZFKr\nIOS Download : http://apple.co/1NktctW\n#kbs #bts #dynamite #army"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT20M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "706752",
+        "likeCount": "122399",
+        "dislikeCount": "368",
+        "favoriteCount": "0",
+        "commentCount": "7730"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/Dil4QG3BpfA\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/02jjt",
+          "/m/0f2f9",
+          "/m/05qjc",
+          "/m/02jjt",
+          "/m/0f2f9",
+          "/m/05qjc",
+          "/m/0f2f9"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Performing_arts",
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Television_program"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "KBS News9 Interview with BTS [Subs / 2020.09.10]",
+          "description": "Click the \"Caption\" button to activate subtitle!\n\n▶Subscribe KBS World Official Pages\nYoutube Subscribe：https://www.youtube.com/kbsworld\nHomepage: http://www.kbsworld.co.kr \nFacebook: http://www.facebook.com/kbsworld\nTwitter: http://twitter.com/kbsworldtv \nInstagram: https://www.instagram.com/kbsworldtv/\nLine: https://goo.gl/g5iRQV\nAndroid Download : http://bit.ly/1NOZFKr\nIOS Download : http://apple.co/1NktctW\n#kbs #bts #dynamite #army"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "WGE1zfqChC1x_dCvgwyUzjxdjqA",
+      "id": "hbtV9jPXWF4",
+      "snippet": {
+        "publishedAt": "2020-09-09T23:00:23Z",
+        "channelId": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+        "title": "2020 NFL Training Camp Mic'd Up! \"No one calls you that bro\"",
+        "description": "Footage provided by: \nFalcons\nRavens\nBills\nBengals\nBrowns\nBuccaneers\nColts\nChiefs\nChargers\nJaguars\nDolphins\nVikings\nGiants\nRaiders\nEagles\nSeahawks\nWashington\n\nSubscribe to NFL: http://j.mp/1L0bVBu\n\nCheck out our other channels:\nPara más contenido de la NFL en Español, suscríbete a https://www.youtube.com/nflenespanol\nNFL Fantasy Football https://www.youtube.com/nflfantasyfootball\nNFL Vault http://www.youtube.com/nflvault\nNFL Network http://www.youtube.com/nflnetwork\nNFL Films http://www.youtube.com/nflfilms\nNFL Rush http://www.youtube.com/nflrush\nNFL Play Football https://www.youtube.com/playfootball\nNFL Podcasts https://www.youtube.com/nflpodcasts\n\n#NFL #Football #AmericanFootball",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hbtV9jPXWF4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hbtV9jPXWF4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hbtV9jPXWF4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hbtV9jPXWF4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hbtV9jPXWF4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NFL",
+        "tags": [
+          "NFL",
+          "Football",
+          "American Football",
+          "sport",
+          "sports"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "2020 NFL Training Camp Mic'd Up! \"No one calls you that bro\"",
+          "description": "Footage provided by: \nFalcons\nRavens\nBills\nBengals\nBrowns\nBuccaneers\nColts\nChiefs\nChargers\nJaguars\nDolphins\nVikings\nGiants\nRaiders\nEagles\nSeahawks\nWashington\n\nSubscribe to NFL: http://j.mp/1L0bVBu\n\nCheck out our other channels:\nPara más contenido de la NFL en Español, suscríbete a https://www.youtube.com/nflenespanol\nNFL Fantasy Football https://www.youtube.com/nflfantasyfootball\nNFL Vault http://www.youtube.com/nflvault\nNFL Network http://www.youtube.com/nflnetwork\nNFL Films http://www.youtube.com/nflfilms\nNFL Rush http://www.youtube.com/nflrush\nNFL Play Football https://www.youtube.com/playfootball\nNFL Podcasts https://www.youtube.com/nflpodcasts\n\n#NFL #Football #AmericanFootball"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT14M14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "563059",
+        "likeCount": "10917",
+        "dislikeCount": "366",
+        "favoriteCount": "0",
+        "commentCount": "1051"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/hbtV9jPXWF4\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/06ntj",
+          "/m/0jm_",
+          "/m/06ntj",
+          "/m/0jm_",
+          "/m/0f2f9"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Television_program",
+          "https://en.wikipedia.org/wiki/American_football",
+          "https://en.wikipedia.org/wiki/Sport"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "2020 NFL Training Camp Mic'd Up! \"No one calls you that bro\"",
+          "description": "Footage provided by: \nFalcons\nRavens\nBills\nBengals\nBrowns\nBuccaneers\nColts\nChiefs\nChargers\nJaguars\nDolphins\nVikings\nGiants\nRaiders\nEagles\nSeahawks\nWashington\n\nSubscribe to NFL: http://j.mp/1L0bVBu\n\nCheck out our other channels:\nPara más contenido de la NFL en Español, suscríbete a https://www.youtube.com/nflenespanol\nNFL Fantasy Football https://www.youtube.com/nflfantasyfootball\nNFL Vault http://www.youtube.com/nflvault\nNFL Network http://www.youtube.com/nflnetwork\nNFL Films http://www.youtube.com/nflfilms\nNFL Rush http://www.youtube.com/nflrush\nNFL Play Football https://www.youtube.com/playfootball\nNFL Podcasts https://www.youtube.com/nflpodcasts\n\n#NFL #Football #AmericanFootball"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "TR9VifPBN1409_csLOmvIICHRZY",
+      "id": "G4JKLH929B0",
+      "snippet": {
+        "publishedAt": "2020-09-09T23:00:10Z",
+        "channelId": "UCwLK17rpMFUfktQEcMzSyWg",
+        "title": "Luke Combs - Lovin' On You (Official Video)",
+        "description": "Listen to “Lovin’ On You” from Luke Combs’ album, ‘What You See Is What You Get,’ available now: https://LC.lnk.to/WYSIWYGYT\n\nPre-order/add/save Luke Combs’ new deluxe album, ‘What You See Ain’t Always What You Get,’ available October 23: https://LC.lnk.to/WYSAAWYGYT\n \nCHORUS:\nBut I’m in love with lovin’ on you\nI feel that rush soon as you walk in a room\nI can’t get enough of you, honey\nYou’re right on the money\nI’m a junkie for your midnight moves\nI’m in love with lovin’ on you\n \nListen On:\nApple Music: https://LC.lnk.to/WYSIWYGYT/applemusic\nSpotify: https://LC.lnk.to/WYSIWYGYT/spotify\nAmazon Music: https://LC.lnk.to/WYSIWYGYT/amazonmusic \niTunes: https://LC.lnk.to/WYSIWYGYT/itunes \nPandora: https://LC.lnk.to/WYSIWYGYT/pandora \nYouTube Music: https://LC.lnk.to/WYSIWYGYT/youtubemusic  \nYouTube: https://LC.lnk.to/WYSIWYGYT/youtube \nAll retailers: https://LC.lnk.to/WYSIWYGYT \n  \nFollow Luke: \nInstagram: https://LC.lnk.to/profileYT/instagram\nFacebook: https://LC.lnk.to/profileYT/facebook\nTwitter: https://LC.lnk.to/profileYT/twitter\nTikTok: https://LC.lnk.to/profileYT/tiktok\nTwitch: https://LC.lnk.to/profileYT/twitch\nSubscribe to his channel: https://LC.lnk.to/profileYT/youtube\nWebsite/Tour Dates/Bootleggers Fan Club: https://LC.lnk.to/profileYT/officialsite \n \n#LukeCombs #LovinOnYou #Official\n\nhttp://vevo.ly/eU30aX",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G4JKLH929B0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G4JKLH929B0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G4JKLH929B0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G4JKLH929B0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/G4JKLH929B0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "LukeCombsVEVO",
+        "tags": [
+          "luke combs",
+          "new song",
+          "lovin on you",
+          "official video",
+          "Nicole hocking",
+          "forever after all",
+          "better together",
+          "lyrics",
+          "when it rains it pours",
+          "six feet apart",
+          "does to me",
+          "beer never broke my heart",
+          "im in love",
+          "she got the best of me",
+          "long neck ice cold",
+          "beautiful crazy",
+          "tiktok",
+          "tik tok",
+          "1 2 many",
+          "hurricane",
+          "brooks and dunn",
+          "new every day",
+          "reasons",
+          "dear today",
+          "angels workin overtime",
+          "nothing like you",
+          "used to you",
+          "without you",
+          "refrigerator door",
+          "one"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Luke Combs - Lovin' On You (Official Video)",
+          "description": "Listen to “Lovin’ On You” from Luke Combs’ album, ‘What You See Is What You Get,’ available now: https://LC.lnk.to/WYSIWYGYT\n\nPre-order/add/save Luke Combs’ new deluxe album, ‘What You See Ain’t Always What You Get,’ available October 23: https://LC.lnk.to/WYSAAWYGYT\n \nCHORUS:\nBut I’m in love with lovin’ on you\nI feel that rush soon as you walk in a room\nI can’t get enough of you, honey\nYou’re right on the money\nI’m a junkie for your midnight moves\nI’m in love with lovin’ on you\n \nListen On:\nApple Music: https://LC.lnk.to/WYSIWYGYT/applemusic\nSpotify: https://LC.lnk.to/WYSIWYGYT/spotify\nAmazon Music: https://LC.lnk.to/WYSIWYGYT/amazonmusic \niTunes: https://LC.lnk.to/WYSIWYGYT/itunes \nPandora: https://LC.lnk.to/WYSIWYGYT/pandora \nYouTube Music: https://LC.lnk.to/WYSIWYGYT/youtubemusic  \nYouTube: https://LC.lnk.to/WYSIWYGYT/youtube \nAll retailers: https://LC.lnk.to/WYSIWYGYT \n  \nFollow Luke: \nInstagram: https://LC.lnk.to/profileYT/instagram\nFacebook: https://LC.lnk.to/profileYT/facebook\nTwitter: https://LC.lnk.to/profileYT/twitter\nTikTok: https://LC.lnk.to/profileYT/tiktok\nTwitch: https://LC.lnk.to/profileYT/twitch\nSubscribe to his channel: https://LC.lnk.to/profileYT/youtube\nWebsite/Tour Dates/Bootleggers Fan Club: https://LC.lnk.to/profileYT/officialsite \n \n#LukeCombs #LovinOnYou #Official\n\nhttp://vevo.ly/eU30aX"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT4M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": [
+            "WF",
+            "WS",
+            "OM",
+            "LK",
+            "LI",
+            "DZ",
+            "LC",
+            "LA",
+            "DE",
+            "LY",
+            "LV",
+            "DO",
+            "LT",
+            "DM",
+            "DJ",
+            "DK",
+            "TF",
+            "TG",
+            "TD",
+            "TC",
+            "TN",
+            "TO",
+            "TL",
+            "TM",
+            "TJ",
+            "TK",
+            "TH",
+            "TV",
+            "TW",
+            "TT",
+            "TR",
+            "TZ",
+            "ET",
+            "MH",
+            "MK",
+            "ER",
+            "MM",
+            "ML",
+            "MO",
+            "MN",
+            "MA",
+            "MC",
+            "AZ",
+            "ME",
+            "MD",
+            "MG",
+            "MF",
+            "MY",
+            "MX",
+            "EC",
+            "MZ",
+            "EE",
+            "EG",
+            "MQ",
+            "EH",
+            "MS",
+            "MR",
+            "MU",
+            "MT",
+            "MW",
+            "MV",
+            "UA",
+            "UG",
+            "YT",
+            "UM",
+            "US",
+            "UY",
+            "UZ",
+            "BD",
+            "BE",
+            "BF",
+            "BG",
+            "BA",
+            "BB",
+            "BL",
+            "BM",
+            "BN",
+            "BO",
+            "BH",
+            "BI",
+            "BJ",
+            "BT",
+            "BV",
+            "BW",
+            "BQ",
+            "BR",
+            "BS",
+            "PF",
+            "BY",
+            "BZ",
+            "JP",
+            "JM",
+            "JO",
+            "MP",
+            "JE",
+            "PH",
+            "CG",
+            "RU",
+            "CD",
+            "CC",
+            "CA",
+            "RS",
+            "CO",
+            "CN",
+            "CM",
+            "CL",
+            "CK",
+            "ZA",
+            "CI",
+            "CH",
+            "CW",
+            "CV",
+            "CU",
+            "CR",
+            "LR",
+            "RO",
+            "CZ",
+            "CY",
+            "CX",
+            "KZ",
+            "KY",
+            "KW",
+            "LB",
+            "KR",
+            "KP",
+            "KN",
+            "KM",
+            "KI",
+            "KH",
+            "KG",
+            "KE",
+            "SV",
+            "ST",
+            "SS",
+            "SR",
+            "SZ",
+            "SY",
+            "SX",
+            "SG",
+            "SE",
+            "SD",
+            "SC",
+            "SB",
+            "SA",
+            "SO",
+            "SN",
+            "SM",
+            "SL",
+            "SK",
+            "SJ",
+            "SI",
+            "SH",
+            "ZM",
+            "HR",
+            "HT",
+            "HU",
+            "HK",
+            "RW",
+            "HN",
+            "HM",
+            "PR",
+            "PS",
+            "LU",
+            "PW",
+            "PT",
+            "AX",
+            "AU",
+            "AT",
+            "AW",
+            "PY",
+            "AQ",
+            "AS",
+            "AR",
+            "AM",
+            "AL",
+            "AO",
+            "PA",
+            "AI",
+            "PG",
+            "PE",
+            "AE",
+            "PK",
+            "AG",
+            "AF",
+            "PN",
+            "PL",
+            "PM",
+            "IT",
+            "IQ",
+            "IS",
+            "IR",
+            "QA",
+            "IE",
+            "ID",
+            "CF",
+            "IM",
+            "IL",
+            "IO",
+            "IN",
+            "YE",
+            "RE",
+            "FR",
+            "FI",
+            "FJ",
+            "FK",
+            "FM",
+            "FO",
+            "AD",
+            "NP",
+            "VI",
+            "NR",
+            "NU",
+            "VN",
+            "VA",
+            "NZ",
+            "VC",
+            "VE",
+            "VG",
+            "NA",
+            "NC",
+            "NE",
+            "NF",
+            "NG",
+            "NI",
+            "NL",
+            "VU",
+            "NO",
+            "GY",
+            "ZW",
+            "ES",
+            "GS",
+            "GR",
+            "GQ",
+            "GP",
+            "GW",
+            "LS",
+            "GU",
+            "GT",
+            "GI",
+            "GH",
+            "GN",
+            "GM",
+            "GL",
+            "GB",
+            "GA",
+            "GG",
+            "GF",
+            "GE",
+            "GD"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "430032",
+        "likeCount": "20282",
+        "dislikeCount": "258",
+        "favoriteCount": "0",
+        "commentCount": "1822"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/G4JKLH929B0\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/04rlf",
+          "/m/01lyv",
+          "/m/04rlf",
+          "/m/01lyv"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Country_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "liveStreamingDetails": {
+        "actualStartTime": "2020-09-09T23:00:10Z",
+        "actualEndTime": "2020-09-09T23:06:11Z",
+        "scheduledStartTime": "2020-09-09T23:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XqsV23-w63kf9Yf9pln-Lqxefwc",
+      "id": "SfpUM5Wrh2A",
+      "snippet": {
+        "publishedAt": "2020-09-09T13:50:30Z",
+        "channelId": "UCA3-nIYWu4PTWkb6NwhEpzg",
+        "title": "Ryan & Rick Moranis",
+        "description": "Today Mint is launching unlimited for just $30 and bringing back Rick Moranis. Suck it, 2020.#RickMoranis #MintMobile",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SfpUM5Wrh2A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SfpUM5Wrh2A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SfpUM5Wrh2A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SfpUM5Wrh2A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SfpUM5Wrh2A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ryan Reynolds",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Ryan & Rick Moranis",
+          "description": "Today Mint is launching unlimited for just $30 and bringing back Rick Moranis. Suck it, 2020.#RickMoranis #MintMobile"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1144377",
+        "likeCount": "36599",
+        "dislikeCount": "485",
+        "favoriteCount": "0",
+        "commentCount": "2681"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/SfpUM5Wrh2A\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      },
+      "recordingDetails": {}
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "PrJE2sPvAvXVzVb_YE_O57vXBlE",
+      "id": "C_h1lzllyJc",
+      "snippet": {
+        "publishedAt": "2020-09-10T04:00:09Z",
+        "channelId": "UCU8hEdjK8u27TM7KA8JVIEw",
+        "title": "Usher - Bad Habits (Official Video)",
+        "description": "USHER - \"Bad Habits\": https://smarturl.it/xBadHabitsx\n\nDirector-Chris Robinson\n\nUsher: The Las Vegas Residency opens July 2021 at The Colosseum at Caesars Palace. Tickets on sale at http://www.ticketmaster.com/ushervegas\n\nFollow Usher: \nInstagram: https://www.instagram.com/usher/ \nTwitter: https://twitter.com/Usher\nFacebook: https://www.facebook.com/usher/\n\n#Usher #BadHabits #RnB #OfficialVideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C_h1lzllyJc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C_h1lzllyJc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C_h1lzllyJc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C_h1lzllyJc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C_h1lzllyJc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "UsherVEVO",
+        "tags": [
+          "usher",
+          "bad habits",
+          "usher vevo",
+          "ushervevo",
+          "usher video",
+          "bad habits official video",
+          "usher yeah",
+          "official usher",
+          "usher lyrics",
+          "yeah",
+          "yeah usher",
+          "omg",
+          "bad habits usher",
+          "omg usher",
+          "usher chris brown",
+          "chris brown",
+          "usher dj",
+          "Bad Habits",
+          "Brand Usher/RCA Records",
+          "R&B",
+          "Usher"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Usher - Bad Habits (Official Video)",
+          "description": "USHER - \"Bad Habits\": https://smarturl.it/xBadHabitsx\n\nDirector-Chris Robinson\n\nUsher: The Las Vegas Residency opens July 2021 at The Colosseum at Caesars Palace. Tickets on sale at http://www.ticketmaster.com/ushervegas\n\nFollow Usher: \nInstagram: https://www.instagram.com/usher/ \nTwitter: https://twitter.com/Usher\nFacebook: https://www.facebook.com/usher/\n\n#Usher #BadHabits #RnB #OfficialVideo"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT5M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": [
+            "WF",
+            "WS",
+            "OM",
+            "LK",
+            "LI",
+            "DZ",
+            "LC",
+            "LA",
+            "DE",
+            "LY",
+            "LV",
+            "DO",
+            "LT",
+            "DM",
+            "DJ",
+            "DK",
+            "TF",
+            "TG",
+            "TD",
+            "TC",
+            "TN",
+            "TO",
+            "TL",
+            "TM",
+            "TJ",
+            "TK",
+            "TH",
+            "TV",
+            "TW",
+            "TT",
+            "TR",
+            "TZ",
+            "ET",
+            "MH",
+            "MK",
+            "ER",
+            "MM",
+            "ML",
+            "MO",
+            "MN",
+            "MA",
+            "MC",
+            "AZ",
+            "ME",
+            "MD",
+            "MG",
+            "MF",
+            "MY",
+            "MX",
+            "EC",
+            "MZ",
+            "EE",
+            "EG",
+            "MQ",
+            "EH",
+            "MS",
+            "MR",
+            "MU",
+            "MT",
+            "MW",
+            "MV",
+            "UA",
+            "UG",
+            "YT",
+            "UM",
+            "US",
+            "UY",
+            "UZ",
+            "BD",
+            "BE",
+            "BF",
+            "BG",
+            "BA",
+            "BB",
+            "BL",
+            "BM",
+            "BN",
+            "BO",
+            "BH",
+            "BI",
+            "BJ",
+            "BT",
+            "BV",
+            "BW",
+            "BQ",
+            "BR",
+            "BS",
+            "PF",
+            "BY",
+            "BZ",
+            "JP",
+            "JM",
+            "JO",
+            "MP",
+            "JE",
+            "PH",
+            "CG",
+            "RU",
+            "CD",
+            "CC",
+            "CA",
+            "RS",
+            "CO",
+            "CN",
+            "CM",
+            "CL",
+            "CK",
+            "ZA",
+            "CI",
+            "CH",
+            "CW",
+            "CV",
+            "CU",
+            "CR",
+            "LR",
+            "RO",
+            "CZ",
+            "CY",
+            "CX",
+            "KZ",
+            "KY",
+            "KW",
+            "LB",
+            "KR",
+            "KP",
+            "KN",
+            "KM",
+            "KI",
+            "KH",
+            "KG",
+            "KE",
+            "SV",
+            "ST",
+            "SS",
+            "SR",
+            "SZ",
+            "SY",
+            "SX",
+            "SG",
+            "SE",
+            "SD",
+            "SC",
+            "SB",
+            "SA",
+            "SO",
+            "SN",
+            "SM",
+            "SL",
+            "SK",
+            "SJ",
+            "SI",
+            "SH",
+            "ZM",
+            "HR",
+            "HT",
+            "HU",
+            "HK",
+            "RW",
+            "HN",
+            "HM",
+            "PR",
+            "PS",
+            "LU",
+            "PW",
+            "PT",
+            "AX",
+            "AU",
+            "AT",
+            "AW",
+            "PY",
+            "AQ",
+            "AS",
+            "AR",
+            "AM",
+            "AL",
+            "AO",
+            "PA",
+            "AI",
+            "PG",
+            "PE",
+            "AE",
+            "PK",
+            "AG",
+            "AF",
+            "PN",
+            "PL",
+            "PM",
+            "IT",
+            "IQ",
+            "IS",
+            "IR",
+            "QA",
+            "IE",
+            "ID",
+            "CF",
+            "IM",
+            "IL",
+            "IO",
+            "IN",
+            "YE",
+            "RE",
+            "FR",
+            "FI",
+            "FJ",
+            "FK",
+            "FM",
+            "FO",
+            "AD",
+            "NP",
+            "VI",
+            "NR",
+            "NU",
+            "VN",
+            "VA",
+            "NZ",
+            "VC",
+            "VE",
+            "VG",
+            "NA",
+            "NC",
+            "NE",
+            "NF",
+            "NG",
+            "NI",
+            "NL",
+            "VU",
+            "NO",
+            "GY",
+            "ZW",
+            "ES",
+            "GS",
+            "GR",
+            "GQ",
+            "GP",
+            "GW",
+            "LS",
+            "GU",
+            "GT",
+            "GI",
+            "GH",
+            "GN",
+            "GM",
+            "GL",
+            "GB",
+            "GA",
+            "GG",
+            "GF",
+            "GE",
+            "GD"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "252621",
+        "likeCount": "21837",
+        "dislikeCount": "389",
+        "favoriteCount": "0",
+        "commentCount": "2475"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/C_h1lzllyJc\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/04rlf",
+          "/m/0glt670",
+          "/m/04rlf",
+          "/m/0glt670"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "liveStreamingDetails": {
+        "actualStartTime": "2020-09-10T04:00:09Z",
+        "actualEndTime": "2020-09-10T04:07:20Z",
+        "scheduledStartTime": "2020-09-10T04:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1pqGE79FE14-hQ_arGSAkDZCm5E",
+      "id": "c2u2PvD2iSs",
+      "snippet": {
+        "publishedAt": "2020-09-10T13:13:32Z",
+        "channelId": "UCooVYzDxdwTtGYAkcPmOgOw",
+        "title": "Brawl Stars Animation: Welcome to the Gift Shop!",
+        "description": "Download NOW!! ►► https://supr.cl/playbrawl\nBe a BRAWLER! Subscribe! ►► https://supr.cl/subscribe\n\nFast-paced 3v3 multiplayer and battle royale made for mobile! Play with friends or solo across a variety of game modes in under three minutes.\n\nUnlock and upgrade dozens of Brawlers with powerful Super abilities, Star Powers and Gadgets! Collect unique skins to stand out and show off. Battle in a variety of mysterious locations within the Brawliverse!\n\nBATTLE IN MULTIPLE GAME MODES\n- Gem Grab (3v3): Team up and out-strategize the opposing team. Collect and hold 10 gems to win, but get fragged and lose your gems.\n- Showdown (Solo/Duo): A battle royale style fight for survival. Collect power ups for your Brawler. Grab a friend or play solo - be the last Brawler standing in the rowdiest battle royale yet. Winner take all!\n- Brawl Ball (3v3): It's a whole new Brawl game! Show off your soccer/football skills and score two goals before the other team. There are no red cards here.\n- Bounty (3v3): Take out opponents to earn stars, but don’t let them pick you off. The squad with the most stars wins the match!\n- Heist (3v3): Protect your team’s safe and try to crack open your opponents’. Navigate the map to sneak, blast and blow your way clear to the enemies treasure.\n- Special Events: Limited time special PvE and PvP game modes.\n- Championship Challenge: Join Brawl Stars' esports scene with in-game qualifiers!\n\nUNLOCK AND UPGRADE BRAWLERS\nCollect and upgrade a variety of Brawlers with powerful Super abilities, Star Powers and Gadgets! Level them up and collect unique skins.\n\nBRAWL PASS\nComplete quests, open Brawl Boxes, earn Gems, pins and an exclusive Brawl Pass skin! Fresh content every season.\n\nBECOME THE STAR PLAYER\nClimb the local and regional leaderboards to prove you’re the greatest Brawler of them all!\n\nCONSTANTLY EVOLVING\nLook out for new Brawlers, skins, maps, special events and games modes in the future.\n\nPLEASE NOTE! Brawl Stars is free to download and play, however, some game items can also be purchased for real money. If you don't want to use this feature, please disable in-app purchases in your device's settings. Also, under our Terms of Service and Privacy Policy, you must be at least 9 years of age to play or download Brawl Stars.\n\nFeatures:\n- Team up for real-time 3v3 battles against players from across the world\n- A fast-paced multiplayer battle royale mode made for mobile\n- Unlock and collect new, powerful Brawlers - each with a signature attack and Super ability\n- New events and game modes daily\n- Battle solo or with friends\n- Climb to the top of the leaderboards in global and local rankings \n- Join or start your own Club with fellow players to share tips and battle together\n- Customize Brawlers with unlockable skins\n- Player-designed maps offer challenging new terrain to master\n\nFrom the makers of Clash of Clans, Clash Royale and Boom Beach!\n\nSupport:\nContact us in-game via Settings, Help and Support — or visit http://supercell.helpshift.com/a/brawl-stars/\n\nPrivacy Policy:\nhttp://supercell.com/en/privacy-policy/\n\nTerms of Service:\nhttp://supercell.com/en/terms-of-service/\n\nParent's Guide:\nhttp://supercell.com/en/parents/\n\n???:\nhttps://www.youtube.com/wkbrl\n\n#StarrPark",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c2u2PvD2iSs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c2u2PvD2iSs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c2u2PvD2iSs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c2u2PvD2iSs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/c2u2PvD2iSs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Brawl Stars",
+        "tags": [
+          "brawl stars",
+          "mobile game",
+          "mobile strategy game",
+          "mobile rpg",
+          "mobile battle royale",
+          "battle royale",
+          "supercell game",
+          "animation",
+          "gift shop",
+          "starr park",
+          "starr",
+          "park"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Brawl Stars Animation: Welcome to the Gift Shop!",
+          "description": "Download NOW!! ►► https://supr.cl/playbrawl\nBe a BRAWLER! Subscribe! ►► https://supr.cl/subscribe\n\nFast-paced 3v3 multiplayer and battle royale made for mobile! Play with friends or solo across a variety of game modes in under three minutes.\n\nUnlock and upgrade dozens of Brawlers with powerful Super abilities, Star Powers and Gadgets! Collect unique skins to stand out and show off. Battle in a variety of mysterious locations within the Brawliverse!\n\nBATTLE IN MULTIPLE GAME MODES\n- Gem Grab (3v3): Team up and out-strategize the opposing team. Collect and hold 10 gems to win, but get fragged and lose your gems.\n- Showdown (Solo/Duo): A battle royale style fight for survival. Collect power ups for your Brawler. Grab a friend or play solo - be the last Brawler standing in the rowdiest battle royale yet. Winner take all!\n- Brawl Ball (3v3): It's a whole new Brawl game! Show off your soccer/football skills and score two goals before the other team. There are no red cards here.\n- Bounty (3v3): Take out opponents to earn stars, but don’t let them pick you off. The squad with the most stars wins the match!\n- Heist (3v3): Protect your team’s safe and try to crack open your opponents’. Navigate the map to sneak, blast and blow your way clear to the enemies treasure.\n- Special Events: Limited time special PvE and PvP game modes.\n- Championship Challenge: Join Brawl Stars' esports scene with in-game qualifiers!\n\nUNLOCK AND UPGRADE BRAWLERS\nCollect and upgrade a variety of Brawlers with powerful Super abilities, Star Powers and Gadgets! Level them up and collect unique skins.\n\nBRAWL PASS\nComplete quests, open Brawl Boxes, earn Gems, pins and an exclusive Brawl Pass skin! Fresh content every season.\n\nBECOME THE STAR PLAYER\nClimb the local and regional leaderboards to prove you’re the greatest Brawler of them all!\n\nCONSTANTLY EVOLVING\nLook out for new Brawlers, skins, maps, special events and games modes in the future.\n\nPLEASE NOTE! Brawl Stars is free to download and play, however, some game items can also be purchased for real money. If you don't want to use this feature, please disable in-app purchases in your device's settings. Also, under our Terms of Service and Privacy Policy, you must be at least 9 years of age to play or download Brawl Stars.\n\nFeatures:\n- Team up for real-time 3v3 battles against players from across the world\n- A fast-paced multiplayer battle royale mode made for mobile\n- Unlock and collect new, powerful Brawlers - each with a signature attack and Super ability\n- New events and game modes daily\n- Battle solo or with friends\n- Climb to the top of the leaderboards in global and local rankings \n- Join or start your own Club with fellow players to share tips and battle together\n- Customize Brawlers with unlockable skins\n- Player-designed maps offer challenging new terrain to master\n\nFrom the makers of Clash of Clans, Clash Royale and Boom Beach!\n\nSupport:\nContact us in-game via Settings, Help and Support — or visit http://supercell.helpshift.com/a/brawl-stars/\n\nPrivacy Policy:\nhttp://supercell.com/en/privacy-policy/\n\nTerms of Service:\nhttp://supercell.com/en/terms-of-service/\n\nParent's Guide:\nhttp://supercell.com/en/parents/\n\n???:\nhttps://www.youtube.com/wkbrl\n\n#StarrPark"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2519595",
+        "likeCount": "189590",
+        "dislikeCount": "2013",
+        "favoriteCount": "0",
+        "commentCount": "9261"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/c2u2PvD2iSs\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/02jjt"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Brawl Stars Animation: Welcome to the Gift Shop!",
+          "description": "Download NOW!! ►► https://supr.cl/playbrawl\nBe a BRAWLER! Subscribe! ►► https://supr.cl/subscribe\n\nFast-paced 3v3 multiplayer and battle royale made for mobile! Play with friends or solo across a variety of game modes in under three minutes.\n\nUnlock and upgrade dozens of Brawlers with powerful Super abilities, Star Powers and Gadgets! Collect unique skins to stand out and show off. Battle in a variety of mysterious locations within the Brawliverse!\n\nBATTLE IN MULTIPLE GAME MODES\n- Gem Grab (3v3): Team up and out-strategize the opposing team. Collect and hold 10 gems to win, but get fragged and lose your gems.\n- Showdown (Solo/Duo): A battle royale style fight for survival. Collect power ups for your Brawler. Grab a friend or play solo - be the last Brawler standing in the rowdiest battle royale yet. Winner take all!\n- Brawl Ball (3v3): It's a whole new Brawl game! Show off your soccer/football skills and score two goals before the other team. There are no red cards here.\n- Bounty (3v3): Take out opponents to earn stars, but don’t let them pick you off. The squad with the most stars wins the match!\n- Heist (3v3): Protect your team’s safe and try to crack open your opponents’. Navigate the map to sneak, blast and blow your way clear to the enemies treasure.\n- Special Events: Limited time special PvE and PvP game modes.\n- Championship Challenge: Join Brawl Stars' esports scene with in-game qualifiers!\n\nUNLOCK AND UPGRADE BRAWLERS\nCollect and upgrade a variety of Brawlers with powerful Super abilities, Star Powers and Gadgets! Level them up and collect unique skins.\n\nBRAWL PASS\nComplete quests, open Brawl Boxes, earn Gems, pins and an exclusive Brawl Pass skin! Fresh content every season.\n\nBECOME THE STAR PLAYER\nClimb the local and regional leaderboards to prove you’re the greatest Brawler of them all!\n\nCONSTANTLY EVOLVING\nLook out for new Brawlers, skins, maps, special events and games modes in the future.\n\nPLEASE NOTE! Brawl Stars is free to download and play, however, some game items can also be purchased for real money. If you don't want to use this feature, please disable in-app purchases in your device's settings. Also, under our Terms of Service and Privacy Policy, you must be at least 9 years of age to play or download Brawl Stars.\n\nFeatures:\n- Team up for real-time 3v3 battles against players from across the world\n- A fast-paced multiplayer battle royale mode made for mobile\n- Unlock and collect new, powerful Brawlers - each with a signature attack and Super ability\n- New events and game modes daily\n- Battle solo or with friends\n- Climb to the top of the leaderboards in global and local rankings \n- Join or start your own Club with fellow players to share tips and battle together\n- Customize Brawlers with unlockable skins\n- Player-designed maps offer challenging new terrain to master\n\nFrom the makers of Clash of Clans, Clash Royale and Boom Beach!\n\nSupport:\nContact us in-game via Settings, Help and Support — or visit http://supercell.helpshift.com/a/brawl-stars/\n\nPrivacy Policy:\nhttp://supercell.com/en/privacy-policy/\n\nTerms of Service:\nhttp://supercell.com/en/terms-of-service/\n\nParent's Guide:\nhttp://supercell.com/en/parents/\n\n???:\nhttps://www.youtube.com/wkbrl\n\n#StarrPark"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rvuqmV2EiCfOXZ1AJfpuDck3rUw",
+      "id": "EqPnIcDW9g0",
+      "snippet": {
+        "publishedAt": "2020-09-10T13:00:23Z",
+        "channelId": "UCq0OueAsdxH6b8nyAspwViw",
+        "title": "FREAKY - Official Trailer (HD)",
+        "description": "In theaters Friday the 13th of November\nhttps://www.freaky.movie\n\nThis November, on Friday the 13th, prepare to get Freaky with a twisted take on the body-swap movie when a teenage girl switches bodies with a relentless serial killer.  \n\nSeventeen-year-old Millie Kessler (Kathryn Newton, Blockers, HBO’s Big Little Lies) is just trying to survive the bloodthirsty halls of Blissfield High and the cruelty of the popular crowd. But when she becomes the newest target of The Butcher (Vince Vaughn), her town’s infamous serial killer, her senior year becomes the least of her worries. \n\nWhen The Butcher’s mystical ancient dagger causes him and Millie to wake up in each other’s bodies, Millie learns that she has just 24 hours to get her body back before the switch becomes permanent and she’s trapped in the form of a middle-aged maniac forever. The only problem is she now looks like a towering psychopath who’s the target of a city-wide manhunt while The Butcher looks like her and has brought his appetite for carnage to Homecoming.\n\nWith some help from her friends—ultra-woke Nyla (Celeste O’Connor, Ghostbusters: Afterlife), ultra-fabulous Joshua (Misha Osherovich, The Goldfinch) and her crush Booker (Uriah Shelton, Enter the Warriors Gate)—Millie races against the clock to reverse the curse while The Butcher discovers that having a female teen body is the perfect cover for a little Homecoming killing spree. \n\nThe film also stars Alan Ruck (HBO’s Succession), Katie Finneran (TV’s Why Women Kill) and Dana Drori (Hulu’s High Fidelity). \n\nFrom the deliciously debased mind of writer-director Christopher Landon (Happy Death Day, the Paranormal Activity franchise) comes a pitch-black horror-comedy about a slasher, a senior, and the brutal truth about high school.  \n\nFreaky is written by Christopher Landon and Michael Kennedy (Fox’s Bordertown) and is produced by Jason Blum (Halloween, The Invisible Man). The film is produced by Blumhouse Productions in association with Divide/Conquer. The executive producers are Couper Samuelson and Jeanette Volturno.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EqPnIcDW9g0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EqPnIcDW9g0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EqPnIcDW9g0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EqPnIcDW9g0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EqPnIcDW9g0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Universal Pictures",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "FREAKY - Official Trailer (HD)",
+          "description": "In theaters Friday the 13th of November\nhttps://www.freaky.movie\n\nThis November, on Friday the 13th, prepare to get Freaky with a twisted take on the body-swap movie when a teenage girl switches bodies with a relentless serial killer.  \n\nSeventeen-year-old Millie Kessler (Kathryn Newton, Blockers, HBO’s Big Little Lies) is just trying to survive the bloodthirsty halls of Blissfield High and the cruelty of the popular crowd. But when she becomes the newest target of The Butcher (Vince Vaughn), her town’s infamous serial killer, her senior year becomes the least of her worries. \n\nWhen The Butcher’s mystical ancient dagger causes him and Millie to wake up in each other’s bodies, Millie learns that she has just 24 hours to get her body back before the switch becomes permanent and she’s trapped in the form of a middle-aged maniac forever. The only problem is she now looks like a towering psychopath who’s the target of a city-wide manhunt while The Butcher looks like her and has brought his appetite for carnage to Homecoming.\n\nWith some help from her friends—ultra-woke Nyla (Celeste O’Connor, Ghostbusters: Afterlife), ultra-fabulous Joshua (Misha Osherovich, The Goldfinch) and her crush Booker (Uriah Shelton, Enter the Warriors Gate)—Millie races against the clock to reverse the curse while The Butcher discovers that having a female teen body is the perfect cover for a little Homecoming killing spree. \n\nThe film also stars Alan Ruck (HBO’s Succession), Katie Finneran (TV’s Why Women Kill) and Dana Drori (Hulu’s High Fidelity). \n\nFrom the deliciously debased mind of writer-director Christopher Landon (Happy Death Day, the Paranormal Activity franchise) comes a pitch-black horror-comedy about a slasher, a senior, and the brutal truth about high school.  \n\nFreaky is written by Christopher Landon and Michael Kennedy (Fox’s Bordertown) and is produced by Jason Blum (Halloween, The Invisible Man). The film is produced by Blumhouse Productions in association with Divide/Conquer. The executive producers are Couper Samuelson and Jeanette Volturno."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "908379",
+        "likeCount": "4463",
+        "dislikeCount": "168",
+        "favoriteCount": "0",
+        "commentCount": "601"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/EqPnIcDW9g0\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/02jjt",
+          "/m/02vxn",
+          "/m/0f2f9",
+          "/m/02jjt",
+          "/m/02vxn",
+          "/m/0f2f9"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Film",
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Television_program"
+        ]
+      },
+      "recordingDetails": {}
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "TqQ3OC4_f_SgXKI2oLq_T2q3FH4",
+      "id": "tOMQiSZF_6M",
+      "snippet": {
+        "publishedAt": "2020-09-09T17:23:09Z",
+        "channelId": "UCgIWIkGWCV9knhMvK3Q8usA",
+        "title": "Low Confronts Asuelu | 90 Day Fiancé: Happily Ever After?",
+        "description": "Stream Full Episodes of 90 Day Fiancé: Happily Ever After?:\nhttps://www.tlc.com/tv-shows/90-day-fiance-happily-ever-after/\n\nSubscribe to 90 Day Fiancé:\nhttps://bit.ly/Subscribe90DayFiance\n\nJoin Us on Facebook:\nhttps://www.facebook.com/90DayFiance/\n\nFollow Us on Twitter:\nhttps://twitter.com/90DayFiance\n\nWe're on Instagram!\nhttps://instagram.com/90DayFiance",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tOMQiSZF_6M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tOMQiSZF_6M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tOMQiSZF_6M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tOMQiSZF_6M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tOMQiSZF_6M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "90 Day Fiancé",
+        "tags": [
+          "tlc",
+          "tlc shows",
+          "tlc full episodes",
+          "90 Day Fiancé",
+          "foreign love",
+          "international dating",
+          "marriage tv show",
+          "green card marriage",
+          "90 day fiance",
+          "90 day fiance clips",
+          "90 day fiance videos",
+          "90 day fiance full episodes",
+          "before the 90 days",
+          "the other way",
+          "happily ever after",
+          "just landed",
+          "darcey & stacey",
+          "the family chantel",
+          "pillow talk",
+          "angela and michael",
+          "tania and syngin",
+          "elizabeth and adrei",
+          "kalani and asuelu",
+          "colt and larissa",
+          "colt and jess",
+          "larissa and eric",
+          "paul and karine"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Low Confronts Asuelu | 90 Day Fiancé: Happily Ever After?",
+          "description": "Stream Full Episodes of 90 Day Fiancé: Happily Ever After?:\nhttps://www.tlc.com/tv-shows/90-day-fiance-happily-ever-after/\n\nSubscribe to 90 Day Fiancé:\nhttps://bit.ly/Subscribe90DayFiance\n\nJoin Us on Facebook:\nhttps://www.facebook.com/90DayFiance/\n\nFollow Us on Twitter:\nhttps://twitter.com/90DayFiance\n\nWe're on Instagram!\nhttps://instagram.com/90DayFiance"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": [
+            "NZ",
+            "TR",
+            "ZA"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "538712",
+        "likeCount": "7100",
+        "dislikeCount": "221",
+        "favoriteCount": "0",
+        "commentCount": "1844"
+      },
+      "player": {
+        "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/tOMQiSZF_6M\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      },
+      "recordingDetails": {}
+    }
+  ],
+  "nextPageToken": "CBsQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 27
+  }
+}

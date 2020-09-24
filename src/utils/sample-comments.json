@@ -1,0 +1,677 @@
+{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "SCsY7Q3OYVoDq5I04fOOgNvA3Ew",
+  "nextPageToken": "QURTSl9pMUpDRTF0OE15UVhLLVFxUmoxNHlRbUx0UWxBdGgtNVJXWHpjMmFwLUFvLVV5MVo3TW5xc3Q0WVc3d2RfZUt6cGw4emMzQUhrVQ==",
+  "pageInfo": {
+    "totalResults": 20,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "WVGktHfv-kyl5JXVhjuGoPdvoz4",
+      "id": "UgzVJRLLSglHMCqBeuF4AaABAg",
+      "snippet": {
+        "videoId": "n9xhJrPXop4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "iiWTioXwKo7vpNdAgJgdbxNsw14",
+          "id": "UgzVJRLLSglHMCqBeuF4AaABAg",
+          "snippet": {
+            "videoId": "n9xhJrPXop4",
+            "textDisplay": "You have to be kidding me im so must have this forever this will go down with matrix 101/ valerian/ hmmmmmm awakening what else darnit jupiter ascending shoot i need wolf riders",
+            "textOriginal": "You have to be kidding me im so must have this forever this will go down with matrix 101/ valerian/ hmmmmmm awakening what else darnit jupiter ascending shoot i need wolf riders",
+            "authorDisplayName": "john mensah",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJxE6wb_rYQgZh8J0uvnjNVCvaQpJ4C8dsHk24-O=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCQnVTS03VkrFzvJ3FSgjO-g",
+            "authorChannelId": {
+              "value": "UCQnVTS03VkrFzvJ3FSgjO-g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-09-14T03:48:09Z",
+            "updatedAt": "2020-09-14T03:49:16Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "7KDkXvmJW98EJ36TR7CQXxyoTnU",
+      "id": "UgxrCHVZVQv_srQ_V6N4AaABAg",
+      "snippet": {
+        "videoId": "n9xhJrPXop4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "XqZaGMWYtL7EGNwwZTg-VjMXUDM",
+          "id": "UgxrCHVZVQv_srQ_V6N4AaABAg",
+          "snippet": {
+            "videoId": "n9xhJrPXop4",
+            "textDisplay": "As difficult to portray as GOT...very complex books and storyline...it will be fascinating to watch.",
+            "textOriginal": "As difficult to portray as GOT...very complex books and storyline...it will be fascinating to watch.",
+            "authorDisplayName": "Johanne Baker",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJxkXTod-Y21bxcOHz10sjqEMBUzeOM1bQTEoA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCh1TX7fKEC0z1l_vI17fPBw",
+            "authorChannelId": {
+              "value": "UCh1TX7fKEC0z1l_vI17fPBw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-09-14T03:47:37Z",
+            "updatedAt": "2020-09-14T03:47:37Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "DeC4Ib2vgXcGGV7WdkWrVC1qsAI",
+      "id": "UgwmU5uF5Iqk6jwgdyN4AaABAg",
+      "snippet": {
+        "videoId": "n9xhJrPXop4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "v2p4EUuc7NV7qOwVnZM8wa_DCS0",
+          "id": "UgwmU5uF5Iqk6jwgdyN4AaABAg",
+          "snippet": {
+            "videoId": "n9xhJrPXop4",
+            "textDisplay": "Small brains: Dune is a rich story full of political intrigue, themes about human nature and warnings about environmental damage\u003cbr /\u003e\u003cbr /\u003ePeople who’ve read the book: haha, Sand worm goes brrrrrr",
+            "textOriginal": "Small brains: Dune is a rich story full of political intrigue, themes about human nature and warnings about environmental damage\n\nPeople who’ve read the book: haha, Sand worm goes brrrrrr",
+            "authorDisplayName": "Geraldo Del rivero",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyRCI5IOvTo7liUYAs-kx1LDhx0eKjBY_7tuYW5ZQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC-JcZFuckbhL4XT8NCOOMHg",
+            "authorChannelId": {
+              "value": "UC-JcZFuckbhL4XT8NCOOMHg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-09-14T03:45:42Z",
+            "updatedAt": "2020-09-14T03:45:42Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "QmXlOAuTKy3dS8yA9WTZ01oPP8k",
+      "id": "UgxO0cxzlpj6Cz0OaDZ4AaABAg",
+      "snippet": {
+        "videoId": "n9xhJrPXop4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ZA-_JqL20Y-tdv-MieDLO-yHIDY",
+          "id": "UgxO0cxzlpj6Cz0OaDZ4AaABAg",
+          "snippet": {
+            "videoId": "n9xhJrPXop4",
+            "textDisplay": "14k dislikes, must be the CHOAM company, spacing guild, Bene Gesserit and Harkonnens!",
+            "textOriginal": "14k dislikes, must be the CHOAM company, spacing guild, Bene Gesserit and Harkonnens!",
+            "authorDisplayName": "Blasphemous Creation",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyD2nTpTY2NLxkF7QanbSkxO0XBRwuyRnwouHn5=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCYhT5BKrtBdYguEP30wxp3g",
+            "authorChannelId": {
+              "value": "UCYhT5BKrtBdYguEP30wxp3g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-09-14T03:41:57Z",
+            "updatedAt": "2020-09-14T03:41:57Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "6A-XY_C0fHU2GLVfATQhso5q69E",
+      "id": "Ugxpc6fENTwKhcgfrqh4AaABAg",
+      "snippet": {
+        "videoId": "n9xhJrPXop4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "cQt8pazSm-YlANMA7zKlTVGUlqQ",
+          "id": "Ugxpc6fENTwKhcgfrqh4AaABAg",
+          "snippet": {
+            "videoId": "n9xhJrPXop4",
+            "textDisplay": "Admit it, this isn’t your first time watching, nor will it be your last",
+            "textOriginal": "Admit it, this isn’t your first time watching, nor will it be your last",
+            "authorDisplayName": "Geraldo Del rivero",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyRCI5IOvTo7liUYAs-kx1LDhx0eKjBY_7tuYW5ZQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC-JcZFuckbhL4XT8NCOOMHg",
+            "authorChannelId": {
+              "value": "UC-JcZFuckbhL4XT8NCOOMHg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-09-14T03:41:51Z",
+            "updatedAt": "2020-09-14T03:41:51Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "BTFlcjVl0ko02z6A96XZFDCh4V4",
+      "id": "UgxPX4fxjvnXJmkqYZR4AaABAg",
+      "snippet": {
+        "videoId": "n9xhJrPXop4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "KEZKgDBAwnd6rQt9VHVRcM4nkQU",
+          "id": "UgxPX4fxjvnXJmkqYZR4AaABAg",
+          "snippet": {
+            "videoId": "n9xhJrPXop4",
+            "textDisplay": "An scenes about the Harkonens in this video?",
+            "textOriginal": "An scenes about the Harkonens in this video?",
+            "authorDisplayName": "Lim Aik Hian Kelvin",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyAKmR5iaLPfTx9yrsbPMGEdd1uU3iIprRp4A=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCPKg0o9mxkjFH6eaiqqUfig",
+            "authorChannelId": {
+              "value": "UCPKg0o9mxkjFH6eaiqqUfig"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-09-14T03:40:53Z",
+            "updatedAt": "2020-09-14T03:40:53Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "-1JyN7D1CYRx5vomVwApzkCCnJo",
+      "id": "UgyCDfx3jnqv-E2-L8Z4AaABAg",
+      "snippet": {
+        "videoId": "n9xhJrPXop4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "MkHPmd_fcsSkIivI8H84En3enrY",
+          "id": "UgyCDfx3jnqv-E2-L8Z4AaABAg",
+          "snippet": {
+            "videoId": "n9xhJrPXop4",
+            "textDisplay": "Meh....",
+            "textOriginal": "Meh....",
+            "authorDisplayName": "Lango Farias",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJy_UDC6YVU8XjbrXmYyu5-T8vsTOC83-snQSg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCUyogoyOS6Tnn3jT1pOgMIQ",
+            "authorChannelId": {
+              "value": "UCUyogoyOS6Tnn3jT1pOgMIQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-09-14T03:39:50Z",
+            "updatedAt": "2020-09-14T03:39:50Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "cGXeZZ8HYZTOZ3N2ni7jqfZeQqY",
+      "id": "UgyLjo4T_t49qWEzekh4AaABAg",
+      "snippet": {
+        "videoId": "n9xhJrPXop4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "n8J2YAzMmrlC9h1JNXTaHTDiU3o",
+          "id": "UgyLjo4T_t49qWEzekh4AaABAg",
+          "snippet": {
+            "videoId": "n9xhJrPXop4",
+            "textDisplay": "Was \u003ca href=\"https://www.youtube.com/watch?v=n9xhJrPXop4&amp;t=00h01m57s\"\u003e00:01:57\u003c/a\u003e a golem vat? Was that in the first book? It&#39;s been a while since I read them.",
+            "textOriginal": "Was 00:01:57 a golem vat? Was that in the first book? It's been a while since I read them.",
+            "authorDisplayName": "LeeSalt",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJzCFs-DeFs07kvAGUDl2pV6xp9TSs0HlVAz2rxw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCy7jC6ADZx-dJNS82cfdNtw",
+            "authorChannelId": {
+              "value": "UCy7jC6ADZx-dJNS82cfdNtw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-09-14T03:39:16Z",
+            "updatedAt": "2020-09-14T03:39:16Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "HmzflRn5RerUUWgsHdZGYcjsJvA",
+      "id": "UgxXLVKCjQ3qic5fX1t4AaABAg",
+      "snippet": {
+        "videoId": "n9xhJrPXop4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "-7fVb1RPmlbP70f2Ki3wvyIiEyk",
+          "id": "UgxXLVKCjQ3qic5fX1t4AaABAg",
+          "snippet": {
+            "videoId": "n9xhJrPXop4",
+            "textDisplay": "Just watching this to listen to PF&#39;s Eclipse, see how they changed it",
+            "textOriginal": "Just watching this to listen to PF's Eclipse, see how they changed it",
+            "authorDisplayName": "Arizona Colour",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJz3-goGqoG0V6BjcYtiOJWehBw6NyqMrzPYV0E_kg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCDWxEN2yVxPPEfLn71D7BoQ",
+            "authorChannelId": {
+              "value": "UCDWxEN2yVxPPEfLn71D7BoQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-09-14T03:38:42Z",
+            "updatedAt": "2020-09-14T03:38:42Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "U6NeHt1IzRccon5EseknPpylB-M",
+      "id": "Ugz9jJOevTCoHRRopbN4AaABAg",
+      "snippet": {
+        "videoId": "n9xhJrPXop4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "F5NRz2DJbWHqwu6kUogcVxdthuw",
+          "id": "Ugz9jJOevTCoHRRopbN4AaABAg",
+          "snippet": {
+            "videoId": "n9xhJrPXop4",
+            "textDisplay": "Blade Runner 2049 a couple years ago, now Dune.\u003cbr /\u003e\u003cbr /\u003eIf Denis keeps mirroring Sean Young&#39;s career I&#39;m looking forward to his interpretation of Ace Ventura: Pet Detective in 2030.",
+            "textOriginal": "Blade Runner 2049 a couple years ago, now Dune.\n\nIf Denis keeps mirroring Sean Young's career I'm looking forward to his interpretation of Ace Ventura: Pet Detective in 2030.",
+            "authorDisplayName": "Aykay",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJzUTJLLsZaHjAf5akUtA4J0b7eUj5IhIYKRaA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC-O_wtmka1WtuplswIdq3jw",
+            "authorChannelId": {
+              "value": "UC-O_wtmka1WtuplswIdq3jw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-09-14T03:36:56Z",
+            "updatedAt": "2020-09-14T03:37:48Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "4E3N8vnaBzw4_59o-V4mP7P3Sg8",
+      "id": "UgyVyWD6Lpv1nlDjUIV4AaABAg",
+      "snippet": {
+        "videoId": "n9xhJrPXop4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "4cI5uu5LEpe3OsKQiJ7asjInLEQ",
+          "id": "UgyVyWD6Lpv1nlDjUIV4AaABAg",
+          "snippet": {
+            "videoId": "n9xhJrPXop4",
+            "textDisplay": "it&#39;s so weird that i started reading the book this september before the trailer without knowing there&#39;s gonna be a movie for it. at the same time, i listened to all of pink floyd&#39;s albums, AND THEN THEY FUCKING USED A PINK FLOYD SONG IN THIS.\u003cbr /\u003e\u003cbr /\u003e\u003cb\u003ei swear the universe is trying to tell me something.\u003c/b\u003e",
+            "textOriginal": "it's so weird that i started reading the book this september before the trailer without knowing there's gonna be a movie for it. at the same time, i listened to all of pink floyd's albums, AND THEN THEY FUCKING USED A PINK FLOYD SONG IN THIS.\n\n*i swear the universe is trying to tell me something.*",
+            "authorDisplayName": "just another spawn of the devil, fuck.",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJz5MLXglkFHzb2sxoBGRfgAdMWQEt9uCSmpkXOY8w=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCTBpqosbOTs1-m4uGzw6-DQ",
+            "authorChannelId": {
+              "value": "UCTBpqosbOTs1-m4uGzw6-DQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-09-14T03:33:37Z",
+            "updatedAt": "2020-09-14T03:45:08Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "eUNjUaUSKAJghuNUQkFKY4za9uE",
+      "id": "UgwZjVFZzN83_iUN4Jp4AaABAg",
+      "snippet": {
+        "videoId": "n9xhJrPXop4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "cbNxR5M-fri9w9SOnfz9sl2yq04",
+          "id": "UgwZjVFZzN83_iUN4Jp4AaABAg",
+          "snippet": {
+            "videoId": "n9xhJrPXop4",
+            "textDisplay": "\u003ca href=\"https://www.youtube.com/watch?v=n9xhJrPXop4&amp;t=0m22s\"\u003e0:22\u003c/a\u003e my love video :X",
+            "textOriginal": "0:22 my love video :X",
+            "authorDisplayName": "Qyquehuwhe Sguwdhuerh",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJy3_UMdhpfJSGwi3VFHZKwJjU1Kl36cNtGmZ61v=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCu-ljR_2q9svU7aCvxxlPNQ",
+            "authorChannelId": {
+              "value": "UCu-ljR_2q9svU7aCvxxlPNQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-09-14T03:30:34Z",
+            "updatedAt": "2020-09-14T03:30:34Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "sM52LkLgy_aYzCdFZGH1ComGUiQ",
+      "id": "UgyqGw5EYVLxfKV555J4AaABAg",
+      "snippet": {
+        "videoId": "n9xhJrPXop4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "KdQtpFXfTqF9mt5l8exzvXiMoOI",
+          "id": "UgyqGw5EYVLxfKV555J4AaABAg",
+          "snippet": {
+            "videoId": "n9xhJrPXop4",
+            "textDisplay": "I like Jason Momoa as Duncan Idaho.  He&#39;ll look cool as hell in a stillsuit.  Same with Javier Bardem as Stiglar.",
+            "textOriginal": "I like Jason Momoa as Duncan Idaho.  He'll look cool as hell in a stillsuit.  Same with Javier Bardem as Stiglar.",
+            "authorDisplayName": "Charles Paulk",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJw2QqTAgJsBuL_x-6fb2wzVVP0y8K485jHAVFqU5A=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCbzwSHAkPan4uHgoo0ifTQA",
+            "authorChannelId": {
+              "value": "UCbzwSHAkPan4uHgoo0ifTQA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-09-14T03:30:24Z",
+            "updatedAt": "2020-09-14T03:30:33Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "93wD1IPwOBjLfV2Dt27tsJ-zizk",
+      "id": "UgymgNMZ22cH0WUa4CR4AaABAg",
+      "snippet": {
+        "videoId": "n9xhJrPXop4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "DhvQdD9g3CkqLw7xopSoRK_FiPM",
+          "id": "UgymgNMZ22cH0WUa4CR4AaABAg",
+          "snippet": {
+            "videoId": "n9xhJrPXop4",
+            "textDisplay": "OMG ITS TIMOTHY!!!!!",
+            "textOriginal": "OMG ITS TIMOTHY!!!!!",
+            "authorDisplayName": "Dmitri Collins",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJwdMErzSIT1Pwo1KviLgiuSdf1mkagVFY4gmi_suQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCjshgSe65UPXAiw3M41buIQ",
+            "authorChannelId": {
+              "value": "UCjshgSe65UPXAiw3M41buIQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-09-14T03:28:23Z",
+            "updatedAt": "2020-09-14T03:28:23Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "5NlInknW_irMAprQNpyyo4IH-ps",
+      "id": "Ugzpu0WYKjt-wNci4_V4AaABAg",
+      "snippet": {
+        "videoId": "n9xhJrPXop4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "kL6o6Z440FqPWgoH9zncVwEJsPI",
+          "id": "Ugzpu0WYKjt-wNci4_V4AaABAg",
+          "snippet": {
+            "videoId": "n9xhJrPXop4",
+            "textDisplay": "I am on the fence about this version. I really loved the original to much....it doesn&#39;t look the same and the feel of the movie off🤔",
+            "textOriginal": "I am on the fence about this version. I really loved the original to much....it doesn't look the same and the feel of the movie off🤔",
+            "authorDisplayName": "Osara Bello",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJzU1c6BMjERHWQRKSdbe1LFBeahzIKo2CQMtN_gnA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC5OAMD8bFuAhZXzgsqHyZcg",
+            "authorChannelId": {
+              "value": "UC5OAMD8bFuAhZXzgsqHyZcg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-09-14T03:27:46Z",
+            "updatedAt": "2020-09-14T03:27:46Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "8wjY8LYRE_btfzu3LEGQ-oOELWY",
+            "id": "Ugzpu0WYKjt-wNci4_V4AaABAg.9D_12A1E09_9D_1Za3FjUK",
+            "snippet": {
+              "videoId": "n9xhJrPXop4",
+              "textDisplay": "read the book. David lynch went full on weirdo on dune 1885. This look more true to the book.",
+              "textOriginal": "read the book. David lynch went full on weirdo on dune 1885. This look more true to the book.",
+              "parentId": "Ugzpu0WYKjt-wNci4_V4AaABAg",
+              "authorDisplayName": "Joe",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJwCBbOBehxqEPQw3n2qELoWsPEw7asfMvJSl7BZ=s48-c-k-c0xffffffff-no-rj-mo",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCt9LWObJ4yRF3IN6aE4mKAQ",
+              "authorChannelId": {
+                "value": "UCt9LWObJ4yRF3IN6aE4mKAQ"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2020-09-14T03:32:20Z",
+              "updatedAt": "2020-09-14T03:32:20Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "fJEMbwh8QWyDaSrGLTRwjXrzsgE",
+      "id": "UgxHIphTCYTiBFpO1it4AaABAg",
+      "snippet": {
+        "videoId": "n9xhJrPXop4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ayTBUuRRk0emfTN_SICo8-XalWU",
+          "id": "UgxHIphTCYTiBFpO1it4AaABAg",
+          "snippet": {
+            "videoId": "n9xhJrPXop4",
+            "textDisplay": "Zendaya doesn&#39;t look like peasant anymore",
+            "textOriginal": "Zendaya doesn't look like peasant anymore",
+            "authorDisplayName": "Mushthaq Ali 8157880104",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJwFXf4JJnAzFVaHYmFHMKnJile7gZxg60mTiAGg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCqX-ZKHOz0_2QxgOJVrYvRA",
+            "authorChannelId": {
+              "value": "UCqX-ZKHOz0_2QxgOJVrYvRA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2020-09-14T03:25:35Z",
+            "updatedAt": "2020-09-14T03:25:35Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "-8sh7jmiNTHwS0R_OPvomDtHG2k",
+      "id": "UgzIVEYP93a2wR63Hrp4AaABAg",
+      "snippet": {
+        "videoId": "n9xhJrPXop4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "gp14q7-53LNz7pbOjfxZQci-Pw0",
+          "id": "UgzIVEYP93a2wR63Hrp4AaABAg",
+          "snippet": {
+            "videoId": "n9xhJrPXop4",
+            "textDisplay": "this is gonna be so lit",
+            "textOriginal": "this is gonna be so lit",
+            "authorDisplayName": "Brendan Hanna",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJwfaEX2DpFR27QAm0j4gs6_P82sGjAMfvfGivIB7w=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC78kWgL3N4J8-ux37CK66zw",
+            "authorChannelId": {
+              "value": "UC78kWgL3N4J8-ux37CK66zw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-09-14T03:24:08Z",
+            "updatedAt": "2020-09-14T03:24:08Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "SSefmhII7u9olWFxwvO11x4WXbU",
+      "id": "UgysHFhNJtdiOlv2d614AaABAg",
+      "snippet": {
+        "videoId": "n9xhJrPXop4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "7ERIGnZw5-9gQ0akFk_6Zt59JBg",
+          "id": "UgysHFhNJtdiOlv2d614AaABAg",
+          "snippet": {
+            "videoId": "n9xhJrPXop4",
+            "textDisplay": "Bruh it&#39;s impossible for Dennis Villenueve to direct a bad film, regardless of the subject matter. He&#39;s got that William Friedkin / Oliver Stone kind of ecumenical greatness, regardless of the genre or narrative he brings it to life in the fullest possible effect.\u003cbr /\u003e\u003cbr /\u003eFor once, a Dune production looks like it will do the book some real justice. The original movie from the 80s, and the mini series with William Hurt were both excellent and entertaining Romps through Arrakis but they left you fucking wanting way more than they provided. \u003cbr /\u003e\u003cbr /\u003ePS. People worried about the time shouldn&#39;t worry at all. Dennis Villenueve movies are almost always 2.5 hours in length or longer. He&#39;s definitely going to give us, at minimum, a 3 hour epic that is an orgasmic feat for our senses and our brains. Can&#39;t wait, definitely copping this in 4K on its streaming-platform release day. Hashtag: Hyped like a Freeman on Spice cut with Meth",
+            "textOriginal": "Bruh it's impossible for Dennis Villenueve to direct a bad film, regardless of the subject matter. He's got that William Friedkin / Oliver Stone kind of ecumenical greatness, regardless of the genre or narrative he brings it to life in the fullest possible effect.\n\nFor once, a Dune production looks like it will do the book some real justice. The original movie from the 80s, and the mini series with William Hurt were both excellent and entertaining Romps through Arrakis but they left you fucking wanting way more than they provided. \n\nPS. People worried about the time shouldn't worry at all. Dennis Villenueve movies are almost always 2.5 hours in length or longer. He's definitely going to give us, at minimum, a 3 hour epic that is an orgasmic feat for our senses and our brains. Can't wait, definitely copping this in 4K on its streaming-platform release day. Hashtag: Hyped like a Freeman on Spice cut with Meth",
+            "authorDisplayName": "GC Howard",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJyoZRadG0EiuWuZ-Xh8GaA8JFisRF7ksGXsR4yv=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCBWwI9bZYpf-GAXbmX65Rtw",
+            "authorChannelId": {
+              "value": "UCBWwI9bZYpf-GAXbmX65Rtw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-09-14T03:22:01Z",
+            "updatedAt": "2020-09-14T03:22:01Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "_jSSlROznCjXZkURlyNZuDJY72k",
+      "id": "UgzerobyK8EBvlFYoW14AaABAg",
+      "snippet": {
+        "videoId": "n9xhJrPXop4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "v1OBy6ralf0Ps_44KqSpT3uUR00",
+          "id": "UgzerobyK8EBvlFYoW14AaABAg",
+          "snippet": {
+            "videoId": "n9xhJrPXop4",
+            "textDisplay": "\u003ca href=\"https://youtu.be/59GKbemZvRA\"\u003ehttps://youtu.be/59GKbemZvRA\u003c/a\u003e",
+            "textOriginal": "https://youtu.be/59GKbemZvRA",
+            "authorDisplayName": "Reid’s Gaming",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJwKLY1Xo6zrBE9uA71Ki5I-4VV5VC_2ll__9HuT=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCx91IughLSm0_eGrH3YWGgw",
+            "authorChannelId": {
+              "value": "UCx91IughLSm0_eGrH3YWGgw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-09-14T03:22:00Z",
+            "updatedAt": "2020-09-14T03:22:00Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "UVVhCB0SqpkqljJlvGsDAwwZ9rY",
+      "id": "UgyQF5M66F49XF6EuON4AaABAg",
+      "snippet": {
+        "videoId": "n9xhJrPXop4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "n2cMpHWHPv7Ant87pDEniKbR4FM",
+          "id": "UgyQF5M66F49XF6EuON4AaABAg",
+          "snippet": {
+            "videoId": "n9xhJrPXop4",
+            "textDisplay": "He Who controls the 2020 controls the fear",
+            "textOriginal": "He Who controls the 2020 controls the fear",
+            "authorDisplayName": "lukdragon",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AATXAJx-U6qLmJDtWq1IUF8xOAD6J6JPcjZfrz7W1rAL=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCu7vfWb3fQk8o0fbQpPb2mw",
+            "authorChannelId": {
+              "value": "UCu7vfWb3fQk8o0fbQpPb2mw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2020-09-14T03:21:56Z",
+            "updatedAt": "2020-09-14T03:21:56Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    }
+  ]
+}

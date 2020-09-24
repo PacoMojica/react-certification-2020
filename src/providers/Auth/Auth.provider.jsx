@@ -1,7 +1,10 @@
 import React, { useState, useEffect, useContext, useCallback } from 'react';
+import { useHistory } from 'react-router';
 
-import { AUTH_STORAGE_KEY } from '../../utils/constants';
-import { storage } from '../../utils/storage';
+import { AUTH_STORAGE_KEY, USER_STORAGE_KEY, DEFAULT_USERS } from '../../utils/constants';
+import Storage from '../../utils/storage';
+
+import { useFeedback } from '../Feedback';
 
 const AuthContext = React.createContext(null);
 
@@ -14,27 +17,50 @@ function useAuth() {
 }
 
 function AuthProvider({ children }) {
-  const [authenticated, setAuthenticated] = useState(false);
+  const { showFeedback } = useFeedback();
+  const history = useHistory();
+  const [authenticated, setAuthenticated] = useState(Storage.get(AUTH_STORAGE_KEY));
+  const [user, setUser] = useState(Storage.get(USER_STORAGE_KEY));
 
   useEffect(() => {
-    const lastAuthState = storage.get(AUTH_STORAGE_KEY);
+    const lastAuthState = Storage.get(AUTH_STORAGE_KEY);
     const isAuthenticated = Boolean(lastAuthState);
+    const lastUser = Storage.get(USER_STORAGE_KEY);
 
+    setUser(lastUser);
     setAuthenticated(isAuthenticated);
   }, []);
 
-  const login = useCallback(() => {
-    setAuthenticated(true);
-    storage.set(AUTH_STORAGE_KEY, true);
-  }, []);
+  const login = useCallback((username, password, from) => {
+    const dbUser = DEFAULT_USERS[username];
+    if (dbUser && dbUser.password === password) {
+      Storage.set(AUTH_STORAGE_KEY, true);
+      Storage.set(USER_STORAGE_KEY, dbUser);
+      setUser(dbUser);
+      setAuthenticated(true);
+      history.push(from);
+      showFeedback('Welcome back!')();
+    } else {
+      showFeedback('Invalid credentials')();
+    }
+  }, [history, showFeedback]);
 
   const logout = useCallback(() => {
+    Storage.set(AUTH_STORAGE_KEY, false);
+    Storage.set(USER_STORAGE_KEY, null);
     setAuthenticated(false);
-    storage.set(AUTH_STORAGE_KEY, false);
+    setUser(null);
   }, []);
 
+  const value = {
+    login,
+    logout,
+    authenticated: authenticated,
+    user: user,
+  };
+
   return (
-    <AuthContext.Provider value={{ login, logout, authenticated }}>
+    <AuthContext.Provider value={value}>
       {children}
     </AuthContext.Provider>
   );
