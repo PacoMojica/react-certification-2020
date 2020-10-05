@@ -35,7 +35,7 @@ function Details({ video }) {
   return (
     <CardContent className={classes.content}>
       <Tooltip title={snippet.title} placement='top'>
-        <Link color='inherit' href={`/video/${video.id}`} variant='body2' underline='none' title={snippet.title}>
+        <Link color='inherit' href={`/video/${video.id}`} variant='body2' underline='none'>
           <span className={classes.title}>
             {snippet.title}
           </span>

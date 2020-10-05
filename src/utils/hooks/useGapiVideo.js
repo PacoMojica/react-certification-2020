@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 
 import { useGapi } from './useGapi';
 
-function useVideo(videoId) {
+function useGapiVideo(videoId) {
   const { client, clientLoaded } = useGapi();
   const [video, setVideo] = useState(null);
   const [loading, setLoading] = useState(true);
@@ -34,4 +34,4 @@ function useVideo(videoId) {
   return { video, loading, error };
 }
 
-export { useVideo };
+export { useGapiVideo };

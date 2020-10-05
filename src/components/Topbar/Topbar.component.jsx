@@ -1,5 +1,5 @@
-import React, { useEffect } from 'react';
-import { Link as RouterLink, useParams } from 'react-router-dom';
+import React from 'react';
+import { Link as RouterLink } from 'react-router-dom';
 import { useHistory } from 'react-router';
 import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
@@ -24,7 +24,6 @@ function Topbar() {
   const { toggleDrawer } = useSidemenu();
   const { query, setQuery } = useSearch();
   const history = useHistory();
-  const { query: queryParam } = useParams();
 
   const handleSearch = () => history.push(`/search/${query}`);
   const handleChange = event => setQuery(event.target.value);
@@ -33,10 +32,6 @@ function Topbar() {
       history.push(`/search/${query}`);
     }
   }
-
-  useEffect(() => {
-    if (queryParam && !query) setQuery(queryParam);
-  }, [query, queryParam, setQuery])
 
   return (
     <StylesProvider classes={classes}>

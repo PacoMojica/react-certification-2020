@@ -8,7 +8,6 @@ export default makeStyles((theme) => ({
     width: '100%',
     display: 'grid',
     gridTemplateColumns: `70% 30%`,
-    // paddingRight: theme.spacing(4),
   },
   videoSection: {
     backgroundColor: 'black',

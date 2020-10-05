@@ -32,10 +32,10 @@ export default function count(rawCount, end = '') {
 
   for (const [prefix, data] of Object.entries(COUNT_ROUND)) {
     const { precision, decimalValue } = data;
-    const totalViews = count / decimalValue;
+    const totalCount = count / decimalValue;
 
-    if (totalViews >= 1) {
-      return `${formatCount(totalViews, precision)}${prefix}${stringEnd}`;
+    if (totalCount >= 1) {
+      return `${formatCount(totalCount, precision)}${prefix}${stringEnd}`;
     }
   }
 

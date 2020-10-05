@@ -2,13 +2,6 @@ import { useState, useEffect } from 'react';
 
 import { useGapi } from './useGapi';
 
-// import queryResult from '../sample-search.json';
-
-// function encodeQuery(query) {
-//   const pipeEscaped = query.replace('-', '%7C');
-//   return encodeURIComponent(pipeEscaped);
-// }
-
 function useSearch(query) {
   const { client, clientLoaded } = useGapi();
   const [searchResults, setResults] = useState(null);
@@ -29,7 +22,6 @@ function useSearch(query) {
           const response = await client.youtube.videos.list({
             'part': ['snippet', 'contentDetails', 'statistics', 'status', 'player', 'topicDetails', 'recordingDetails'],
             'id': queryResult.result.items.map(item => item.id.videoId).join(','),
-            // 'id': queryResult.items.map(item => item.id.videoId).join(','),
           });
 
           setResults(response.result.items);

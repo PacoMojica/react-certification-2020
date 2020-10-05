@@ -1,5 +1,4 @@
 import React from 'react';
-import { BrowserRouter } from 'react-router-dom';
 import CssBaseline from '@material-ui/core/CssBaseline';
 
 import ContextComposer from '../ContextComposer';
@@ -24,15 +23,13 @@ function App() {
     SearchProvider,
   ];
   return (
-    <BrowserRouter basename=''>
+    <ContextComposer providers={providers}>
       <CssBaseline />
-      <ContextComposer providers={providers}>
-        <Sidemenu />
-        <ToTop />
-        <RouterSwitch />
-        <ActionFeedback />
-      </ContextComposer>
-    </BrowserRouter>
+      <Sidemenu />
+      <ToTop />
+      <RouterSwitch />
+      <ActionFeedback />
+    </ContextComposer>
   );
 }
 

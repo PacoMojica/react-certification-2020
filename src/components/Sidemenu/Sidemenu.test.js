@@ -1,0 +1,85 @@
+import React from 'react';
+import { screen, fireEvent } from '@testing-library/react'
+
+import Sidemenu from './Sidemenu.component';
+import RouterSwitch from '../RouterSwitch';
+import Topbar from '../Topbar';
+
+import AuthProvider from '../../providers/Auth';
+import FeedbackProvider from '../../providers/Feedback';
+import SidemenuProvider from '../../providers/Sidemenu';
+
+import renderWithRouter from '../../utils/tests-utils/renderWithRouter';
+import loginUser from '../../utils/tests-utils/loginUser';
+
+jest.mock('../../pages/Home', () => ({
+  __esModule: true,
+  default: () => {
+    return <div>Home</div>;
+  },
+}));
+jest.mock('../../pages/WatchLater', () => ({
+  __esModule: true,
+  default: () => {
+    return <div>Watch Later</div>;
+  },
+}));
+jest.mock('../../pages/Favorites', () => ({
+  __esModule: true,
+  default: () => {
+    return <div>Favorites</div>;
+  },
+}));
+
+describe('Sidemenu', () => {
+  it('works as expected when user is NOT logged in', async () => {
+    renderWithRouter(<FeedbackProvider>
+      <AuthProvider>
+        <SidemenuProvider>
+          <RouterSwitch />
+          <Topbar />
+          <Sidemenu />
+        </SidemenuProvider>
+      </AuthProvider>
+    </FeedbackProvider>, {
+      route: '/',
+    });
+
+    const home = await screen.findByText(/Home/i);
+    expect(home).toBeInTheDocument();
+
+    const openMenu = screen.queryAllByRole('button')[0];
+    fireEvent.click(openMenu);
+
+    expect(screen.queryAllByTitle('Watch Later').length).toBe(0);
+    expect(screen.queryAllByTitle('Favorites').length).toBe(0);
+  });
+
+  it('works as expected when user is logged in', async () => {
+    loginUser();
+    renderWithRouter(<FeedbackProvider>
+      <AuthProvider>
+        <SidemenuProvider>
+          <RouterSwitch />
+          <Topbar />
+          <Sidemenu />
+        </SidemenuProvider>
+      </AuthProvider>
+    </FeedbackProvider>, {
+      route: '/',
+    });
+
+    const home = await screen.findByText(/Home/i);
+    expect(home).toBeInTheDocument();
+
+    const openMenu = await screen.queryAllByRole('button')[0];
+    fireEvent.click(openMenu);
+
+    fireEvent.click(screen.getByText('Watch Later'));
+    const later = await screen.findByText(/Watch Later/i);
+    expect(later).toBeInTheDocument();
+    fireEvent.click(screen.getByText('Favorites'));
+    const favorites = await screen.findByText(/Favorites/i);
+    expect(favorites).toBeInTheDocument();
+  });
+});

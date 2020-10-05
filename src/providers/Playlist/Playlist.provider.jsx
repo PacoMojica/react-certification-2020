@@ -1,4 +1,4 @@
-import React, { createContext, useContext, useEffect, useState } from 'react';
+import React, { createContext, useContext, useEffect, useState, useCallback } from 'react';
 
 import { WATCH_LATER, FAVORITES } from '../../utils/constants';
 import Storage from '../../utils/storage';
@@ -41,7 +41,7 @@ function PlaylistProvider({ children }) {
     }
   }, [user]);
 
-  const addFavorite = video => {
+  const addFavorite = useCallback(video => {
     if (!authenticated) return showFeedback('Login to add the video to your favorites')();
 
     const allFavorites = Storage.get(FAVORITES);
@@ -60,9 +60,9 @@ function PlaylistProvider({ children }) {
     } else {
       showFeedback(`Already in your favorites: "${video.snippet.title}"`)();
     }
-  };
+  }, [authenticated, showFeedback, user]);
 
-  const removeFavorite = video => {
+  const removeFavorite = useCallback(video => {
     if (!authenticated) return showFeedback('Login to remove the video from your favorites')();
 
     const allFavorites = Storage.get(FAVORITES);
@@ -79,9 +79,9 @@ function PlaylistProvider({ children }) {
       setFavorites(userVideos);
       showFeedback(`Removed from your favorites: "${video.snippet.title}"`)();
     }
-  };
+  }, [authenticated, showFeedback, user]);
 
-  const addLater = video => {
+  const addLater = useCallback(video => {
     if (!authenticated) return showFeedback('Login to add the video to watch later')();
 
     const allWatchLater = Storage.get(WATCH_LATER);
@@ -100,9 +100,9 @@ function PlaylistProvider({ children }) {
     } else {
       showFeedback(`Already in watch later: "${video.snippet.title}"`)();
     }
-  };
+  }, [authenticated, showFeedback, user]);
 
-  const removeLater = video => {
+  const removeLater = useCallback(video => {
     if (!authenticated) return showFeedback('Login to remove the video from watch later')();
 
     const allWatchLater = Storage.get(WATCH_LATER);
@@ -119,7 +119,7 @@ function PlaylistProvider({ children }) {
       setWatchLater(userVideos);
       showFeedback(`Removed from watch later: "${video.snippet.title}"`)();
     }
-  };
+  }, [authenticated, showFeedback, user]);
 
   return (
     <PlaylistContext.Provider value={{ favorites, watchLater, addFavorite, removeFavorite, addLater, removeLater }}>

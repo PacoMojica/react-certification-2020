@@ -1,1 +1,1 @@
-export { default, usePlaylist } from './Paylist.provider';
+export { default, usePlaylist } from './Playlist.provider';

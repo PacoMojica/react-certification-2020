@@ -31,12 +31,10 @@ function UserActions() {
   const deauthenticate = event => {
     event.preventDefault();
     setOpen(true);
-    setTimeout(() => {
-      setOpen(false);
-      logout();
-      history.push('/');
-      showFeedback('Hasta la vista, baby!')()
-    }, 600);
+    logout();
+    history.push('/');
+    showFeedback('Hasta la vista, baby!')()
+    setOpen(false);
   }
 
   useEffect(() => {

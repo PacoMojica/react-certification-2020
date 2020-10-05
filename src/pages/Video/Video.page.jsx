@@ -6,13 +6,11 @@ import VideoPlayer from '../../components/VideoPlayer';
 
 import VideoProvider from '../../providers/Video';
 
-import { useVideo } from '../../utils/hooks/useVideo';
-// import response from '../../utils/sample-response.json';
+import { useGapiVideo } from '../../utils/hooks/useGapiVideo';
 
 function Video() {
   const { id } = useParams();
-  // const video = response.items.filter(video => video.id === id)[0];
-  const { video, loading, error } = useVideo(id);
+  const { video, loading, error } = useGapiVideo(id);
 
   useEffect(() => {
     if (!loading && !error) {

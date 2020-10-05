@@ -1,4 +1,4 @@
-import React, { createContext, useContext, useState } from 'react';
+import React, { createContext, useContext, useState, useCallback } from 'react';
 
 const SidemenuContext = createContext({
   open: false,
@@ -16,7 +16,7 @@ function useSidemenu() {
 function SidemenuProvider({ children }) {
   const [open, setOpen] = useState(false);
 
-  const toggleDrawer = (open) => (event) => {
+  const toggleDrawer = useCallback((open) => (event) => {
     if (
       event.type === 'keydown' && (
         event.key === 'Tab' ||
@@ -24,7 +24,7 @@ function SidemenuProvider({ children }) {
       )) return;
 
     setOpen(open);
-  };
+  }, []);
 
   return (
     <SidemenuContext.Provider value={{ open, setOpen, toggleDrawer }}>

@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { useHistory } from 'react-router';
 import TextField from '@material-ui/core/TextField';
 import Paper from '@material-ui/core/Paper';
 import Button from '@material-ui/core/Button';
@@ -14,47 +15,64 @@ import useStyles from './Login.styles';
 
 function Login() {
   const classes = useStyles();
-  const { login } = useAuth();
-  const [open, setOpen] = useState(false);
+  const history = useHistory();
   const location = useLocation();
+  const { login, authenticated } = useAuth();
+  const [open, setOpen] = useState(false);
   const { from } = location.state || { from: { pathname: "/" } };
 
   useEffect(() => {
+    if (authenticated) {
+      history.push(from);
+    }
+
     document.title = 'Login | WizeTube';
 
     return () => document.title = 'WizeTube';
-  }, []);
+  }, [authenticated, from, history]);
 
   const authenticate = event => {
     event.preventDefault();
-    const username = event.target.username.value;
-    const password = event.target.password.value;
+    const username = event.target.elements.username.value;
+    const password = event.target.elements.password.value;
     setOpen(true);
-    setTimeout(() => {
-      setOpen(false);
-      login(username, password, from);
-    }, 600);
+    login(username, password, from);
+    setOpen(false);
   }
 
   return (
     <Main withSidebar={false}>
-      <Paper className={classes.paper} component='form' onSubmit={authenticate}>
+      <Paper className={classes.paper} component='form' onSubmit={authenticate} data-testid='login-form'>
         <TextField
           label='Username'
-          name='username'
-          variant='filled'
-          required
-          className={classes.input}
-          />
-        <TextField
-          label='Password'
-          type='password'
-          name='password'
+          inputProps={{
+            'data-testid': 'username-input',
+            'name': 'username',
+          }}
           variant='filled'
           required
           className={classes.input}
         />
-        <Button type='submit' variant='contained' className={classes.button} color='primary'>Login</Button>
+        <TextField
+          label='Password'
+          inputProps={{
+            'data-testid': 'password-input',
+            'type': 'password',
+            'name': 'password',
+          }}
+          variant='filled'
+          required
+          className={classes.input}
+        />
+        <Button
+          type='submit'
+          data-testid='login-submit'
+          variant='contained'
+          className={classes.button}
+          color='primary'
+        >
+          Login
+        </Button>
         <Backdrop className={classes.backdrop} open={open}>
           <CircularProgress color="inherit" />
         </Backdrop>

@@ -8,7 +8,6 @@ import count from '../../utils/count';
 
 import { useVideo } from '../../providers/Video';
 import { useChannel } from '../../utils/hooks/useChannel';
-// import response from '../../utils/sample-channel.json';
 
 import { useStyles } from '../../providers/Styles';
 
@@ -17,7 +16,6 @@ function ChannelInfo() {
 
   const { video } = useVideo();
   const { channel, loading, error } = useChannel(video.snippet.channelId);
-  // const channel = response.items[0];
 
   const sizes = !loading && !error && Object.keys(channel.snippet.thumbnails);
   const largestAvailable = !loading && !error && sizes[sizes.length - 1];

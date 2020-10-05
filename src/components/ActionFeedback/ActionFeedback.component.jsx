@@ -14,11 +14,12 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 export default function ConsecutiveSnackbars({ handleUndo }) {
-  const { messageInfo, open, handleClose, handleExited  } = useFeedback();
+  const { messageInfo, open, handleClose, handleExited } = useFeedback();
 
   const classes = useStyles();
   return (
     <Snackbar
+      label='asdf'
       key={messageInfo ? messageInfo.key : undefined}
       anchorOrigin={{
         vertical: 'bottom',
@@ -28,7 +29,7 @@ export default function ConsecutiveSnackbars({ handleUndo }) {
       autoHideDuration={6000}
       onClose={handleClose}
       onExited={handleExited}
-      message={messageInfo ? messageInfo.message : undefined}
+      message={messageInfo ? messageInfo.message : 'No message'}
       action={
         <React.Fragment>
           {handleUndo && (

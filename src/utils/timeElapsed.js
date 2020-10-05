@@ -14,4 +14,6 @@ export default function timeSince(rawDate) {
       );
     }
   }
+
+  return 'A few moments ago';
 }
